@@ -1,201 +1,201 @@
-itemId,playerName,playerTeam,playerCountry,userId,userRiskType,betPlaced,betAmount,betOutcome,timestamp
-c4493a2b-8c67-4345-a052-ddd8988be736,Karim Benzema,Real Madrid,France,8,Medium,False,0.0,null,2022-12-04 00:00:00
-46f3b28a-d110-4f9a-8f85-f953cf283d9d,Neymar,Paris Saint Germain,Brésil,11,Medium,False,0.0,null,2023-06-16 00:00:00
-76b0dca2-0634-4df2-8904-3195b4bc4257,Neymar,Paris Saint Germain,Brésil,11,Medium,True,90.12,Lose,2023-11-13 00:00:00
-d2906d5f-c345-4811-a8df-3b7c2a937f6f,Mohamed Salah,Liverpool,Maroc,1,High,False,0.0,null,2024-06-01 00:00:00
-5d724afc-6f4c-4d7b-9b94-c3c5add68c88,Kylian Mbappé,Real Madrid,Espagne,7,High,False,0.0,null,2024-11-30 00:00:00
-61e9cd90-0c76-4635-8327-b010a6072e97,Erling Haaland,Manchester City,Norway,10,High,True,93.77,Win,2024-10-11 00:00:00
-59efed09-f15e-4000-9f72-0f96c4092b27,Karim Benzema,Real Madrid,France,5,Medium,False,0.0,null,2024-03-09 00:00:00
-664869ee-f418-4bde-9072-3c389ad17683,Mohamed Salah,Liverpool,Maroc,14,Medium,True,50.6,Pending,2023-08-19 00:00:00
-ba191044-fab2-4ec2-8088-c6ab55b16f82,Neymar,Paris Saint Germain,Brésil,3,Low,True,9.28,Pending,2023-04-07 00:00:00
-fd3b85e6-24b4-4944-9a59-fc86f2bc1e3b,Lionel Messi,Inter Miami,Argentina,14,Medium,False,0.0,null,2023-10-28 00:00:00
-1cb4cc1c-27c1-4251-a2d5-dbc205cd4696,Luka Modrić,Real Madrid,Croatie,8,Medium,False,0.0,null,2023-01-21 00:00:00
-2fcd10a6-ebe4-420e-82c3-647727c5fc94,Luka Modrić,Real Madrid,Croatie,3,Low,False,0.0,null,2022-02-04 00:00:00
-73e1a898-e7f2-48bd-8330-b7f280a16278,Kevin De Bruyne,Manchester City,Pays-Bas,9,Low,True,72.33,Lose,2023-01-27 00:00:00
-559ea28f-5104-4689-90f7-5b198dd89ab9,Neymar,Paris Saint Germain,Brésil,14,Medium,True,84.62,Lose,2024-06-25 00:00:00
-3aea441b-705d-4aaf-86e4-822ae8bd01ac,Kevin De Bruyne,Manchester City,Pays-Bas,8,Medium,False,0.0,null,2022-04-27 00:00:00
-8e329369-0846-41cb-80e5-99dc4f8c9257,Neymar,Paris Saint Germain,Brésil,18,Low,True,56.23,Lose,2022-01-16 00:00:00
-38628764-a904-4d7b-a098-889e95361719,Cristiano Ronaldo,Al-Nassr,Portugal,2,Medium,True,40.5,Lose,2024-08-28 00:00:00
-4d83e967-f2a2-451a-9101-6b43a2d22369,Harry Kane,Tottenham Hotspur,Angleterre,11,Medium,False,0.0,null,2022-01-25 00:00:00
-8549c5cd-00c5-4b87-8ad6-c792984daebf,Kevin De Bruyne,Manchester City,Pays-Bas,15,Low,True,24.04,Win,2023-06-11 00:00:00
-e96a0a15-3a77-4be4-ae04-710c2a3f507e,Mohamed Salah,Liverpool,Maroc,15,Low,False,0.0,null,2024-01-17 00:00:00
-5d2edcd1-845d-4959-9866-d5caaf9074f5,Harry Kane,Tottenham Hotspur,Angleterre,12,Low,False,0.0,null,2022-06-29 00:00:00
-e2be0f9c-2052-40e7-965e-18df2bf40711,Cristiano Ronaldo,Al-Nassr,Portugal,13,High,False,0.0,null,2024-07-27 00:00:00
-5ceaf46e-1a50-4f6c-bbec-90cbb5ff7ed8,Luka Modrić,Real Madrid,Croatie,10,High,False,0.0,null,2023-04-24 00:00:00
-e53e5907-378d-4d6c-a41e-c22761dd5667,Cristiano Ronaldo,Al-Nassr,Portugal,3,Low,False,0.0,null,2024-04-11 00:00:00
-06a7b7c5-8c73-4adc-b1b9-16c5a3b6fe68,Antoine Griezmann,Atlético Madrid,France,14,Medium,True,14.46,Win,2024-01-30 00:00:00
-758e313a-523f-44fe-8054-9472052deba7,Kylian Mbappé,Real Madrid,Espagne,2,Medium,True,57.39,Pending,2022-05-05 00:00:00
-352c95c9-031b-443c-934d-5d542e6f438a,Erling Haaland,Manchester City,Norway,5,Medium,False,0.0,null,2024-06-13 00:00:00
-fc00504a-3a5b-4ee2-800f-06f502c8f415,Neymar,Paris Saint Germain,Brésil,13,High,False,0.0,null,2022-08-23 00:00:00
-7123655d-b692-4bb3-9989-ef500df8bf4a,Harry Kane,Tottenham Hotspur,Angleterre,15,Low,False,0.0,null,2023-05-14 00:00:00
-1b92321a-5274-4991-9180-45c51fc96d02,Lionel Messi,Inter Miami,Argentina,16,High,True,73.75,Pending,2023-11-11 00:00:00
-a4837732-7cda-4826-a305-abd1e55658be,Lionel Messi,Inter Miami,Argentina,4,High,False,0.0,null,2022-05-29 00:00:00
-fa195c80-4aa9-4e3a-bdf0-f201e53f1c24,Kylian Mbappé,Real Madrid,Espagne,13,High,False,0.0,null,2023-02-27 00:00:00
-631032b6-a624-4de3-b2d8-4b6fba438c42,Neymar,Paris Saint Germain,Brésil,13,High,True,91.72,Pending,2024-01-11 00:00:00
-c18075ed-5a84-4c73-a1c2-0d331d4ca03e,Erling Haaland,Manchester City,Norway,4,High,False,0.0,null,2024-03-04 00:00:00
-90af73a6-3637-4ae7-9396-71bb823a811e,Mohamed Salah,Liverpool,Maroc,16,High,False,0.0,null,2022-08-26 00:00:00
-b348542e-b64d-4ef0-916f-154f17484b3d,Harry Kane,Tottenham Hotspur,Angleterre,4,High,False,0.0,null,2022-11-10 00:00:00
-363e783a-ce12-44e0-b4df-3c2f464d8051,Neymar,Paris Saint Germain,Brésil,2,Medium,True,61.9,Pending,2022-09-15 00:00:00
-297d11a9-a930-4f01-9f8e-25b2f29d01ae,Harry Kane,Tottenham Hotspur,Angleterre,10,High,False,0.0,null,2022-07-04 00:00:00
-6ef41c25-db07-4599-b99e-239b13de3009,Karim Benzema,Real Madrid,France,3,Low,True,5.72,Lose,2024-05-22 00:00:00
-d37b60e0-10fb-4441-9ea9-1a2abcdb51d3,Antoine Griezmann,Atlético Madrid,France,3,Low,False,0.0,null,2023-01-11 00:00:00
-a5b30c99-2cc9-4472-8486-dd64c772dd20,Erling Haaland,Manchester City,Norway,16,High,False,0.0,null,2023-06-04 00:00:00
-22d0255e-118e-412d-8f29-d1501788f18f,Lionel Messi,Inter Miami,Argentina,17,Medium,False,0.0,null,2022-07-24 00:00:00
-6ccc80e8-9eca-4183-9f17-00f277b7f3b0,Lionel Messi,Inter Miami,Argentina,13,High,False,0.0,null,2024-09-14 00:00:00
-5c1d2667-9d4a-43e5-93e2-88e1f07705b8,Erling Haaland,Manchester City,Norway,10,High,False,0.0,null,2024-05-05 00:00:00
-cb5a8ecf-1340-4570-9ff5-9b9c55b0bd79,Harry Kane,Tottenham Hotspur,Angleterre,15,Low,True,6.01,Win,2023-03-03 00:00:00
-c5d75f16-df2e-4725-ad1e-741a60991e76,Karim Benzema,Real Madrid,France,16,High,False,0.0,null,2022-01-14 00:00:00
-8ae3e9c0-95f4-4921-b57d-55201de76030,Erling Haaland,Manchester City,Norway,10,High,True,65.55,Pending,2022-03-22 00:00:00
-b3c5fe9f-797d-4331-b866-04468f37d084,Harry Kane,Tottenham Hotspur,Angleterre,7,High,False,0.0,null,2024-03-14 00:00:00
-d15322fe-4317-43f0-95f5-9bcd49349d11,Mohamed Salah,Liverpool,Maroc,14,Medium,True,50.25,Lose,2022-01-08 00:00:00
-521e45db-31a5-4024-ab46-2f152cf00e7e,Mohamed Salah,Liverpool,Maroc,8,Medium,True,30.18,Pending,2023-01-30 00:00:00
-6480715f-4c9f-4fbd-a9bc-8a0aea6042c9,Kylian Mbappé,Real Madrid,Espagne,5,Medium,False,0.0,null,2024-12-09 00:00:00
-a43871fb-f8c7-4734-9f79-20286269c550,Mohamed Salah,Liverpool,Maroc,4,High,False,0.0,null,2022-05-16 00:00:00
-244df8e2-be70-47c8-a03a-a56c1f1e7bf2,Paul Pogba,Manchester United,France,10,High,False,0.0,null,2023-07-27 00:00:00
-e40c6612-260e-41ba-9657-63801b8725bb,Cristiano Ronaldo,Al-Nassr,Portugal,8,Medium,True,78.09,Pending,2022-11-04 00:00:00
-351398bf-2d95-4a8c-bd66-df69ac77e9a3,Luka Modrić,Real Madrid,Croatie,18,Low,True,18.26,Lose,2022-12-14 00:00:00
-47939f9c-4540-4542-bdb8-2ab5c882f503,Cristiano Ronaldo,Al-Nassr,Portugal,9,Low,True,29.65,Pending,2022-11-16 00:00:00
-e835f1df-ab67-44e4-9d49-932e62e78b39,Mohamed Salah,Liverpool,Maroc,18,Low,False,0.0,null,2023-03-11 00:00:00
-adf5d57d-3ce7-4de9-9166-6ce1144c8e5e,Kylian Mbappé,Real Madrid,Espagne,4,High,False,0.0,null,2022-01-17 00:00:00
-92adf909-5819-4440-a330-3b9b278aca9d,Paul Pogba,Manchester United,France,14,Medium,True,69.41,Lose,2022-12-14 00:00:00
-b354cd36-b050-47bd-aa31-7697e63f1254,Erling Haaland,Manchester City,Norway,11,Medium,False,0.0,null,2023-12-04 00:00:00
-66ebd3ac-98ec-442c-833f-225ecf65e1d4,Kevin De Bruyne,Manchester City,Pays-Bas,1,High,False,0.0,null,2024-05-04 00:00:00
-ccfa87e8-a893-4798-84f7-0c3e2aae2cf7,Antoine Griezmann,Atlético Madrid,France,16,High,False,0.0,null,2023-01-24 00:00:00
-3e583db8-5557-44e5-84c2-9742a072f0e1,Cristiano Ronaldo,Al-Nassr,Portugal,13,High,False,0.0,null,2024-12-02 00:00:00
-d671b837-4797-45b8-9193-305b0d6dd961,Neymar,Paris Saint Germain,Brésil,7,High,True,91.31,Lose,2022-04-16 00:00:00
-c93fb66e-0262-43e0-952d-b0a502d57847,Lionel Messi,Inter Miami,Argentina,5,Medium,True,10.45,Win,2022-06-26 00:00:00
-1ec3b9ae-7971-45f8-94db-4986226a0eee,Kylian Mbappé,Real Madrid,Espagne,8,Medium,True,17.04,Win,2022-07-04 00:00:00
-64941d68-ce54-4d2d-a22e-e14f2718d02d,Marco Verratti,Manchester City,Italie,4,High,False,0.0,null,2022-12-27 00:00:00
-aa16f31e-289b-46be-a19e-39a2298e8c39,Lionel Messi,Inter Miami,Argentina,12,Low,True,64.65,Pending,2022-06-15 00:00:00
-a9fc6635-c5ac-4873-b9a2-89f98a7ea887,Marco Verratti,Manchester City,Italie,9,Low,False,0.0,null,2022-08-31 00:00:00
-849e6c34-5409-4233-bfe0-c1d3bad9cf05,Erling Haaland,Manchester City,Norway,13,High,False,0.0,null,2024-11-06 00:00:00
-c4a593e9-03a3-4256-ad15-59a053e90a9e,Kylian Mbappé,Real Madrid,Espagne,16,High,False,0.0,null,2022-07-14 00:00:00
-0f9fb758-363a-4238-8c25-afb10a895406,Harry Kane,Tottenham Hotspur,Angleterre,18,Low,False,0.0,null,2023-06-11 00:00:00
-8659e3a5-9d69-4263-9774-d3f0ff31f40b,Lionel Messi,Inter Miami,Argentina,2,Medium,True,24.53,Win,2024-06-02 00:00:00
-698d7a65-be37-4404-b797-0d00ada83ce9,Kylian Mbappé,Real Madrid,Espagne,15,Low,True,17.83,Win,2024-02-23 00:00:00
-09f59cb2-1267-4074-bc84-7ca99433a662,Antoine Griezmann,Atlético Madrid,France,14,Medium,True,21.39,Pending,2024-01-07 00:00:00
-5f258a60-3243-4e3b-96ac-41dc68179dc4,Antoine Griezmann,Atlético Madrid,France,16,High,False,0.0,null,2023-01-12 00:00:00
-b4a3414e-2758-4e70-8773-94003bc31bda,Neymar,Paris Saint Germain,Brésil,12,Low,True,99.16,Pending,2022-10-26 00:00:00
-54307371-e44c-43de-bd9d-3560208ed545,Luka Modrić,Real Madrid,Croatie,3,Low,False,0.0,null,2024-02-11 00:00:00
-a456be8a-ca12-4351-860d-2a0ce90dc599,Lionel Messi,Inter Miami,Argentina,13,High,False,0.0,null,2024-06-28 00:00:00
-eb208374-c209-4987-a44f-9d586449b5ed,Cristiano Ronaldo,Al-Nassr,Portugal,2,Medium,False,0.0,null,2022-09-11 00:00:00
-d6d98b29-1d66-41d3-8351-fb7a6cc877ce,Neymar,Paris Saint Germain,Brésil,9,Low,False,0.0,null,2023-08-26 00:00:00
-a8aa33ba-1903-48d8-bdb4-f1b6958583ca,Neymar,Paris Saint Germain,Brésil,5,Medium,False,0.0,null,2023-12-23 00:00:00
-fb751a02-31e2-4c1a-a998-c375dbb19895,Harry Kane,Tottenham Hotspur,Angleterre,4,High,False,0.0,null,2024-08-07 00:00:00
-292c93f6-570c-4b6d-b360-d8773c9d6d40,Cristiano Ronaldo,Al-Nassr,Portugal,17,Medium,True,80.86,Pending,2024-01-10 00:00:00
-5c128f36-e19e-48d0-a51c-54e754d75570,Harry Kane,Tottenham Hotspur,Angleterre,14,Medium,True,70.4,Lose,2023-02-12 00:00:00
-751f87e2-f47e-4c35-9e50-6cd2f3801003,Luka Modrić,Real Madrid,Croatie,4,High,True,40.59,Win,2023-04-04 00:00:00
-d2ae6f4f-5f12-4eee-a927-d687cb4c779d,Antoine Griezmann,Atlético Madrid,France,13,High,False,0.0,null,2022-12-04 00:00:00
-153ccec0-189d-40f1-b531-61e490a153bf,Luka Modrić,Real Madrid,Croatie,9,Low,True,69.07,Win,2023-10-08 00:00:00
-c649a030-f0e2-483c-9a17-01d3bb7b06ce,Harry Kane,Tottenham Hotspur,Angleterre,1,High,False,0.0,null,2024-07-26 00:00:00
-b8015137-b74d-43a4-b41b-c6e8fdebca37,Paul Pogba,Manchester United,France,4,High,False,0.0,null,2024-03-27 00:00:00
-e0a5f2f8-16e1-47f3-875c-c40a88bcd0e4,Luka Modrić,Real Madrid,Croatie,18,Low,False,0.0,null,2024-08-16 00:00:00
-3004a90e-600a-4099-b4e1-1ef9ed46430d,Antoine Griezmann,Atlético Madrid,France,18,Low,True,84.98,Win,2024-06-30 00:00:00
-287a5569-9c28-4672-ae1e-4ec6384b8677,Kevin De Bruyne,Manchester City,Pays-Bas,15,Low,False,0.0,null,2024-07-12 00:00:00
-2dde7a9b-e40d-4e76-b183-89c78464b0bb,Marco Verratti,Manchester City,Italie,7,High,True,70.36,Pending,2024-07-26 00:00:00
-fc20b4ee-c876-4b7f-b54a-ca2de1cf336c,Cristiano Ronaldo,Al-Nassr,Portugal,8,Medium,False,0.0,null,2022-11-03 00:00:00
-ff82a351-d313-471b-9171-2934ff1e90ad,Erling Haaland,Manchester City,Norway,5,Medium,True,67.55,Lose,2023-04-04 00:00:00
-4029d21b-1ba4-448b-a92a-55007686b499,Cristiano Ronaldo,Al-Nassr,Portugal,17,Medium,True,43.06,Pending,2023-12-05 00:00:00
-bb860b55-bed6-488d-add2-1701fb182dd9,Marco Verratti,Manchester City,Italie,7,High,False,0.0,null,2024-03-26 00:00:00
-3776457e-f9ec-4577-81fc-7d29e106a644,Antoine Griezmann,Atlético Madrid,France,9,Low,False,0.0,null,2023-09-27 00:00:00
-4a4eed25-d850-4b04-8db1-094c9209ebea,Antoine Griezmann,Atlético Madrid,France,11,Medium,False,0.0,null,2024-05-11 00:00:00
-5ebffef7-a94f-4c7c-b0b8-67d4274a5fe4,Harry Kane,Tottenham Hotspur,Angleterre,5,Medium,False,0.0,null,2024-07-04 00:00:00
-9ef7730e-97cb-47e8-9337-593099a977e3,Karim Benzema,Real Madrid,France,11,Medium,True,96.56,Pending,2022-12-17 00:00:00
-916a87fe-aa35-4234-82a5-695be23ee367,Lionel Messi,Inter Miami,Argentina,10,High,False,0.0,null,2022-07-07 00:00:00
-73d4af48-5f53-4711-a724-f578a9af0aa8,Luka Modrić,Real Madrid,Croatie,6,Low,False,0.0,null,2022-12-06 00:00:00
-94b2992c-407e-4f2e-8bef-704c036b1d14,Neymar,Paris Saint Germain,Brésil,15,Low,True,73.59,Lose,2022-03-22 00:00:00
-18d1bd98-7f2e-499d-8099-a816c21ad310,Karim Benzema,Real Madrid,France,16,High,False,0.0,null,2023-03-16 00:00:00
-7c9d1bb9-d243-4a25-b963-2fc43538c468,Antoine Griezmann,Atlético Madrid,France,4,High,False,0.0,null,2023-04-05 00:00:00
-3d396867-11f1-4de3-ab87-a1b087d35515,Neymar,Paris Saint Germain,Brésil,13,High,False,0.0,null,2022-05-25 00:00:00
-f6eb2354-b513-4dae-8c18-7f6bc4a25a0f,Harry Kane,Tottenham Hotspur,Angleterre,2,Medium,False,0.0,null,2022-07-19 00:00:00
-5c41dee6-46a6-4038-818c-48762fbbc35f,Harry Kane,Tottenham Hotspur,Angleterre,1,High,True,77.55,Lose,2024-06-29 00:00:00
-212b20e9-f1fb-417b-862a-6484c3858e1a,Kevin De Bruyne,Manchester City,Pays-Bas,10,High,False,0.0,null,2024-02-14 00:00:00
-e8126f84-bb45-41a7-bd31-a56a8e76ec01,Kylian Mbappé,Real Madrid,Espagne,8,Medium,True,41.03,Win,2022-05-21 00:00:00
-0fba83a0-8495-435c-bb35-39db0f520573,Luka Modrić,Real Madrid,Croatie,10,High,False,0.0,null,2023-12-27 00:00:00
-c2b38d3d-f5f2-42c5-8efc-7502aec279f2,Cristiano Ronaldo,Al-Nassr,Portugal,13,High,True,36.29,Pending,2023-11-23 00:00:00
-5fc99a58-deaf-40e2-824c-fcc4e85fee8e,Kevin De Bruyne,Manchester City,Pays-Bas,1,High,True,22.78,Lose,2024-05-14 00:00:00
-e01827c2-d306-46d3-9311-5d31a53b6ac7,Karim Benzema,Real Madrid,France,16,High,False,0.0,null,2023-09-30 00:00:00
-ef69f03d-a39b-43a0-8c0f-ef49425719ff,Marco Verratti,Manchester City,Italie,3,Low,True,54.06,Pending,2024-08-23 00:00:00
-1ddac98e-7ef0-4d42-9912-f8e99abd54b4,Sergio Ramos,Real Madrid,Espagne,14,Medium,True,66.27,Lose,2023-10-30 00:00:00
-29c37a98-e5a4-47d1-ba82-ff2a2496be0c,Kylian Mbappé,Real Madrid,Espagne,6,Low,True,99.08,Pending,2024-04-03 00:00:00
-fc44853a-9de7-4781-93dc-a06eba6ceaf1,Lionel Messi,Inter Miami,Argentina,2,Medium,False,0.0,null,2022-01-16 00:00:00
-3825ee0a-7283-4cd0-8d1b-2fbff828e892,Mohamed Salah,Liverpool,Maroc,12,Low,False,0.0,null,2022-04-28 00:00:00
-c2d4ad44-a662-4513-b660-fd44ad3474e2,Luka Modrić,Real Madrid,Croatie,16,High,False,0.0,null,2022-04-14 00:00:00
-f5c1a275-3b10-47c8-9155-3c0a95922461,Mohamed Salah,Liverpool,Maroc,18,Low,False,0.0,null,2022-04-30 00:00:00
-c3022582-eff8-4339-80af-10eaea1df7f9,Paul Pogba,Manchester United,France,5,Medium,True,38.26,Lose,2023-05-24 00:00:00
-23dca3dc-4fec-47b1-bd60-677bb5101a42,Mohamed Salah,Liverpool,Maroc,5,Medium,True,79.12,Lose,2022-11-08 00:00:00
-7905ba1a-08d4-4104-bdf7-9eab3df5d630,Kylian Mbappé,Real Madrid,Espagne,5,Medium,True,69.05,Pending,2022-10-04 00:00:00
-d5cd0a37-4fa4-420c-905f-2e1a6acebae5,Mohamed Salah,Liverpool,Maroc,16,High,True,86.16,Lose,2022-02-07 00:00:00
-a88b01f6-59e3-4abf-90ae-8e9e9a804e58,Cristiano Ronaldo,Al-Nassr,Portugal,7,High,True,15.44,Pending,2024-05-18 00:00:00
-b4a42cd2-31e4-448d-80fc-6311570571ef,Paul Pogba,Manchester United,France,8,Medium,True,85.55,Pending,2024-08-31 00:00:00
-32285293-3ae6-4203-b9bf-4a3d19eb0272,Lionel Messi,Inter Miami,Argentina,3,Low,True,44.0,Win,2022-07-18 00:00:00
-c3efc294-2a1e-4346-8c9d-e5bc60041704,Kevin De Bruyne,Manchester City,Pays-Bas,17,Medium,False,0.0,null,2024-11-30 00:00:00
-d5d9521d-1aea-4fbf-a9e2-ba24ccfcb53a,Harry Kane,Tottenham Hotspur,Angleterre,9,Low,False,0.0,null,2023-06-02 00:00:00
-ed736858-3117-4172-bab0-ee4001ae1dfc,Marco Verratti,Manchester City,Italie,4,High,True,57.54,Pending,2022-07-08 00:00:00
-4f34cc09-f467-4022-8e50-b4cb94a8f3f4,Kevin De Bruyne,Manchester City,Pays-Bas,3,Low,True,71.24,Lose,2024-09-30 00:00:00
-f2a845a4-922b-476b-a13a-20865cfeecfd,Paul Pogba,Manchester United,France,10,High,True,81.94,Lose,2022-04-27 00:00:00
-4cddf946-8314-4303-88d7-fa98406baa9b,Kevin De Bruyne,Manchester City,Pays-Bas,17,Medium,True,24.59,Lose,2024-01-01 00:00:00
-14e3b67c-f5cf-490d-84ce-2382de62cd99,Neymar,Paris Saint Germain,Brésil,13,High,True,21.99,Lose,2022-09-29 00:00:00
-294d74b7-8e99-48ef-9844-72578b494a6a,Lionel Messi,Inter Miami,Argentina,1,High,False,0.0,null,2024-10-09 00:00:00
-51b1d725-90d8-4357-8ea6-5d87754dd44e,Kevin De Bruyne,Manchester City,Pays-Bas,4,High,False,0.0,null,2022-11-29 00:00:00
-ed3b536d-6c74-4bce-96e6-8e76bb5343bd,Karim Benzema,Real Madrid,France,7,High,True,63.83,Lose,2022-11-04 00:00:00
-a5bac42d-ed52-4a46-acad-2229eecbd4f1,Antoine Griezmann,Atlético Madrid,France,16,High,True,15.68,Win,2023-11-19 00:00:00
-53efcfd7-5356-4376-be36-2002980cd253,Erling Haaland,Manchester City,Norway,2,Medium,False,0.0,null,2024-10-07 00:00:00
-10456ae4-654f-432a-bab8-837b72fcb140,Lionel Messi,Inter Miami,Argentina,14,Medium,False,0.0,null,2023-02-13 00:00:00
-d2d1954a-f05e-4b9a-9392-9c10be645113,Cristiano Ronaldo,Al-Nassr,Portugal,2,Medium,True,72.5,Win,2022-05-26 00:00:00
-a71475e0-2038-4603-b089-b32da6002006,Mohamed Salah,Liverpool,Maroc,12,Low,True,17.51,Lose,2022-02-18 00:00:00
-b3f58a91-5d70-4822-97a9-b56cb6267816,Mohamed Salah,Liverpool,Maroc,2,Medium,False,0.0,null,2022-11-29 00:00:00
-37023a13-e8ec-43b5-9311-7d9bc5b31eec,Neymar,Paris Saint Germain,Brésil,8,Medium,True,91.0,Lose,2024-04-16 00:00:00
-47911db3-ef55-4291-9a2b-2ebbf3e5906b,Paul Pogba,Manchester United,France,6,Low,True,86.89,Win,2024-11-12 00:00:00
-35390333-4293-40b1-af0c-37d9152a8183,Erling Haaland,Manchester City,Norway,10,High,False,0.0,null,2022-04-18 00:00:00
-652544fd-3129-42be-8e0a-b62f667e9595,Harry Kane,Tottenham Hotspur,Angleterre,9,Low,False,0.0,null,2022-08-16 00:00:00
-4ab68f3c-2aef-42d2-8fa5-dbfd07b11cb3,Harry Kane,Tottenham Hotspur,Angleterre,2,Medium,True,11.1,Win,2023-11-07 00:00:00
-c15e5994-730a-4583-95c5-188d9c08bf5f,Cristiano Ronaldo,Al-Nassr,Portugal,17,Medium,True,41.81,Pending,2022-12-20 00:00:00
-9248b924-4cbc-44cb-ba59-4a1f3646ebb2,Marco Verratti,Manchester City,Italie,4,High,False,0.0,null,2024-10-11 00:00:00
-6c95d68c-03c0-42d4-ad5d-ae105448180d,Neymar,Paris Saint Germain,Brésil,17,Medium,False,0.0,null,2022-04-24 00:00:00
-bd0fc9cb-4d01-4d27-aed6-cd035f74f351,Neymar,Paris Saint Germain,Brésil,6,Low,False,0.0,null,2024-01-13 00:00:00
-d23bc7a0-c769-46ed-bd9e-e607c8ce895d,Luka Modrić,Real Madrid,Croatie,14,Medium,False,0.0,null,2024-01-10 00:00:00
-bbda88cf-d198-4025-85f8-376a31c8df49,Marco Verratti,Manchester City,Italie,3,Low,True,72.63,Pending,2024-10-22 00:00:00
-25a00b1c-e2b9-4daf-8109-f5a4f1f62dc2,Kylian Mbappé,Real Madrid,Espagne,2,Medium,True,86.11,Win,2023-10-31 00:00:00
-b8f79ec8-f208-4ef2-a63a-8f302ab50737,Karim Benzema,Real Madrid,France,5,Medium,False,0.0,null,2023-05-16 00:00:00
-bd5f34dd-e36d-4b99-9c58-970ead0f2a4b,Harry Kane,Tottenham Hotspur,Angleterre,9,Low,True,46.2,Pending,2022-11-09 00:00:00
-e2e4d819-49e0-445d-baf9-f46e9278de0f,Luka Modrić,Real Madrid,Croatie,13,High,True,13.21,Win,2023-10-19 00:00:00
-85bc7ddb-4910-4fe7-aec5-b00420913705,Kylian Mbappé,Real Madrid,Espagne,11,Medium,False,0.0,null,2023-10-12 00:00:00
-23aca0eb-5d59-491a-8b6a-87813598f4a1,Kylian Mbappé,Real Madrid,Espagne,3,Low,False,0.0,null,2024-09-12 00:00:00
-ca2b17eb-03aa-4ac0-88a5-00f87b8e32de,Mohamed Salah,Liverpool,Maroc,11,Medium,False,0.0,null,2024-04-16 00:00:00
-6515bec6-8e6a-423c-9fbc-bf99771d0d32,Cristiano Ronaldo,Al-Nassr,Portugal,7,High,False,0.0,null,2023-07-26 00:00:00
-a5651459-3652-455a-be78-0276e58a9688,Marco Verratti,Manchester City,Italie,14,Medium,True,72.84,Win,2024-03-07 00:00:00
-9ba36998-5e9b-4cf8-bcc0-4afcdd5284e8,Harry Kane,Tottenham Hotspur,Angleterre,18,Low,True,46.82,Pending,2023-12-16 00:00:00
-6be913b9-cd96-471d-954e-863c45dcb0a1,Neymar,Paris Saint Germain,Brésil,14,Medium,False,0.0,null,2024-06-11 00:00:00
-c19c8239-86be-43f1-af74-5940f4b78698,Sergio Ramos,Real Madrid,Espagne,18,Low,False,0.0,null,2024-10-07 00:00:00
-4db6955f-31dd-49e7-85a3-417584dfa86e,Sergio Ramos,Real Madrid,Espagne,3,Low,False,0.0,null,2023-12-17 00:00:00
-8719e799-15e1-4b26-b6dc-24f92c8b4400,Paul Pogba,Manchester United,France,12,Low,True,48.72,Lose,2023-03-13 00:00:00
-692657e6-a6ad-4a0a-acc8-4373e0604f4a,Luka Modrić,Real Madrid,Croatie,17,Medium,True,19.26,Win,2023-06-12 00:00:00
-e6b2d561-bbbc-4a60-a526-a6a72d7cbb6d,Kevin De Bruyne,Manchester City,Pays-Bas,7,High,True,18.51,Pending,2022-09-08 00:00:00
-e4c1d89b-c029-460d-9c91-a718bff4f41d,Cristiano Ronaldo,Al-Nassr,Portugal,8,Medium,True,20.7,Lose,2022-10-09 00:00:00
-b68505d9-e59f-4230-9777-7ab168054688,Cristiano Ronaldo,Al-Nassr,Portugal,9,Low,False,0.0,null,2023-10-18 00:00:00
-c6cdab32-8850-4aad-a388-00926dcf636f,Karim Benzema,Real Madrid,France,18,Low,False,0.0,null,2024-06-15 00:00:00
-4ccf088a-d7d1-43ea-a3b7-9c9ddc52de7c,Erling Haaland,Manchester City,Norway,8,Medium,False,0.0,null,2024-05-07 00:00:00
-0196c962-522b-44e9-a2e9-d2a0e40ba25a,Luka Modrić,Real Madrid,Croatie,11,Medium,True,44.72,Lose,2024-01-05 00:00:00
-913c04bc-41f0-465f-92e4-c25d4d393fc9,Karim Benzema,Real Madrid,France,16,High,True,90.22,Pending,2022-08-16 00:00:00
-7f337321-6001-4d90-8e0f-a69f373d10b9,Kylian Mbappé,Real Madrid,Espagne,11,Medium,True,88.39,Pending,2024-05-04 00:00:00
-1809c2c5-ef92-49e2-90e6-def89546029e,Kylian Mbappé,Real Madrid,Espagne,10,High,True,10.95,Win,2023-05-24 00:00:00
-2fb2e110-e4e9-4062-9471-313400469b85,Luka Modrić,Real Madrid,Croatie,1,High,False,0.0,null,2023-02-19 00:00:00
-30cd12d7-b0ab-49ae-a5eb-5862a1c75283,Erling Haaland,Manchester City,Norway,8,Medium,False,0.0,null,2023-12-03 00:00:00
-10095b92-9c9d-4872-93bc-5364e2723833,Mohamed Salah,Liverpool,Maroc,6,Low,True,30.56,Pending,2022-08-22 00:00:00
-db6f61b4-e977-4eed-b715-066311daf1dc,Sergio Ramos,Real Madrid,Espagne,12,Low,False,0.0,null,2023-04-01 00:00:00
-c9226ed0-ee96-48f8-bce3-8ef7e3d6fabf,Neymar,Paris Saint Germain,Brésil,11,Medium,False,0.0,null,2024-01-24 00:00:00
-c9986a3a-773f-43cb-9910-ac26cedea1f7,Kylian Mbappé,Real Madrid,Espagne,7,High,False,0.0,null,2023-03-04 00:00:00
-796702d4-a701-421a-a8fe-c1c25b574505,Cristiano Ronaldo,Al-Nassr,Portugal,16,High,False,0.0,null,2024-07-29 00:00:00
-13fe5765-30ed-435c-8a12-8645a9bd9bbc,Cristiano Ronaldo,Al-Nassr,Portugal,6,Low,True,74.07,Win,2022-04-09 00:00:00
-f4e83174-964c-41bb-8249-07e267429cfb,Lionel Messi,Inter Miami,Argentina,8,Medium,True,5.22,Pending,2022-12-01 00:00:00
-d74f4bbc-7e61-40ca-8904-9dd7ad4048ba,Lionel Messi,Inter Miami,Argentina,18,Low,True,98.68,Pending,2023-01-22 00:00:00
-19baf6a8-4a1c-407f-b648-27a53654bbad,Harry Kane,Tottenham Hotspur,Angleterre,18,Low,False,0.0,null,2024-10-16 00:00:00
-919233b1-da44-49e8-a2ac-4e3a758628c5,Mohamed Salah,Liverpool,Maroc,2,Medium,False,0.0,null,2024-06-30 00:00:00
-c31a986a-7a9d-4b54-8e62-c9e6a794f4e5,Paul Pogba,Manchester United,France,3,Low,False,0.0,null,2023-06-08 00:00:00
-3b8a3f03-3724-451f-b418-0d35c15ccaca,Karim Benzema,Real Madrid,France,16,High,True,10.67,Pending,2024-11-27 00:00:00
-c06a825e-4a2c-4ba8-b911-272bf7ff05ae,Sergio Ramos,Real Madrid,Espagne,5,Medium,True,41.92,Pending,2022-09-15 00:00:00
-cf93b31e-292a-4744-854c-b006f9ee4ea1,Kevin De Bruyne,Manchester City,Pays-Bas,7,High,False,0.0,null,2024-08-21 00:00:00
-91bf2776-b0f2-4feb-819f-1bc71d3d4676,Erling Haaland,Manchester City,Norway,16,High,True,18.44,Win,2022-02-19 00:00:00
-4673b96b-709f-4edc-a021-c3bcb5da5f5a,Lionel Messi,Inter Miami,Argentina,17,Medium,False,0.0,null,2023-07-26 00:00:00
-4fdd0373-057f-402e-b1cd-c0bf7f223d70,Harry Kane,Tottenham Hotspur,Angleterre,13,High,False,0.0,null,2023-03-17 00:00:00
+itemId,playerName,playerTeam,playerCountry,userId,userRiskType,betPlaced,betAmount,timestamp
+c4493a2b-8c67-4345-a052-ddd8988be736,Karim Benzema,Real Madrid,France,8,Medium,False,0.0,2022-12-04 00:00:00
+46f3b28a-d110-4f9a-8f85-f953cf283d9d,Neymar,Paris Saint Germain,Brésil,11,Medium,False,0.0,2023-06-16 00:00:00
+76b0dca2-0634-4df2-8904-3195b4bc4257,Neymar,Paris Saint Germain,Brésil,11,Medium,True,90.12,2023-11-13 00:00:00
+d2906d5f-c345-4811-a8df-3b7c2a937f6f,Mohamed Salah,Liverpool,Maroc,1,High,False,0.0,2024-06-01 00:00:00
+5d724afc-6f4c-4d7b-9b94-c3c5add68c88,Kylian Mbappé,Real Madrid,Espagne,7,High,False,0.0,2024-11-30 00:00:00
+61e9cd90-0c76-4635-8327-b010a6072e97,Erling Haaland,Manchester City,Norway,10,High,True,93.77,2024-10-11 00:00:00
+59efed09-f15e-4000-9f72-0f96c4092b27,Karim Benzema,Real Madrid,France,5,Medium,False,0.0,2024-03-09 00:00:00
+664869ee-f418-4bde-9072-3c389ad17683,Mohamed Salah,Liverpool,Maroc,14,Medium,True,50.6,2023-08-19 00:00:00
+ba191044-fab2-4ec2-8088-c6ab55b16f82,Neymar,Paris Saint Germain,Brésil,3,Low,True,9.28,2023-04-07 00:00:00
+fd3b85e6-24b4-4944-9a59-fc86f2bc1e3b,Lionel Messi,Inter Miami,Argentina,14,Medium,False,0.0,2023-10-28 00:00:00
+1cb4cc1c-27c1-4251-a2d5-dbc205cd4696,Luka Modrić,Real Madrid,Croatie,8,Medium,False,0.0,2023-01-21 00:00:00
+2fcd10a6-ebe4-420e-82c3-647727c5fc94,Luka Modrić,Real Madrid,Croatie,3,Low,False,0.0,2022-02-04 00:00:00
+73e1a898-e7f2-48bd-8330-b7f280a16278,Kevin De Bruyne,Manchester City,Pays-Bas,9,Low,True,72.33,2023-01-27 00:00:00
+559ea28f-5104-4689-90f7-5b198dd89ab9,Neymar,Paris Saint Germain,Brésil,14,Medium,True,84.62,2024-06-25 00:00:00
+3aea441b-705d-4aaf-86e4-822ae8bd01ac,Kevin De Bruyne,Manchester City,Pays-Bas,8,Medium,False,0.0,2022-04-27 00:00:00
+8e329369-0846-41cb-80e5-99dc4f8c9257,Neymar,Paris Saint Germain,Brésil,18,Low,True,56.23,2022-01-16 00:00:00
+38628764-a904-4d7b-a098-889e95361719,Cristiano Ronaldo,Al-Nassr,Portugal,2,Medium,True,40.5,2024-08-28 00:00:00
+4d83e967-f2a2-451a-9101-6b43a2d22369,Harry Kane,Tottenham Hotspur,Angleterre,11,Medium,False,0.0,2022-01-25 00:00:00
+8549c5cd-00c5-4b87-8ad6-c792984daebf,Kevin De Bruyne,Manchester City,Pays-Bas,15,Low,True,24.04,2023-06-11 00:00:00
+e96a0a15-3a77-4be4-ae04-710c2a3f507e,Mohamed Salah,Liverpool,Maroc,15,Low,False,0.0,2024-01-17 00:00:00
+5d2edcd1-845d-4959-9866-d5caaf9074f5,Harry Kane,Tottenham Hotspur,Angleterre,12,Low,False,0.0,2022-06-29 00:00:00
+e2be0f9c-2052-40e7-965e-18df2bf40711,Cristiano Ronaldo,Al-Nassr,Portugal,13,High,False,0.0,2024-07-27 00:00:00
+5ceaf46e-1a50-4f6c-bbec-90cbb5ff7ed8,Luka Modrić,Real Madrid,Croatie,10,High,False,0.0,2023-04-24 00:00:00
+e53e5907-378d-4d6c-a41e-c22761dd5667,Cristiano Ronaldo,Al-Nassr,Portugal,3,Low,False,0.0,2024-04-11 00:00:00
+06a7b7c5-8c73-4adc-b1b9-16c5a3b6fe68,Antoine Griezmann,Atlético Madrid,France,14,Medium,True,14.46,2024-01-30 00:00:00
+758e313a-523f-44fe-8054-9472052deba7,Kylian Mbappé,Real Madrid,Espagne,2,Medium,True,57.39,2022-05-05 00:00:00
+352c95c9-031b-443c-934d-5d542e6f438a,Erling Haaland,Manchester City,Norway,5,Medium,False,0.0,2024-06-13 00:00:00
+fc00504a-3a5b-4ee2-800f-06f502c8f415,Neymar,Paris Saint Germain,Brésil,13,High,False,0.0,2022-08-23 00:00:00
+7123655d-b692-4bb3-9989-ef500df8bf4a,Harry Kane,Tottenham Hotspur,Angleterre,15,Low,False,0.0,2023-05-14 00:00:00
+1b92321a-5274-4991-9180-45c51fc96d02,Lionel Messi,Inter Miami,Argentina,16,High,True,73.75,2023-11-11 00:00:00
+a4837732-7cda-4826-a305-abd1e55658be,Lionel Messi,Inter Miami,Argentina,4,High,False,0.0,2022-05-29 00:00:00
+fa195c80-4aa9-4e3a-bdf0-f201e53f1c24,Kylian Mbappé,Real Madrid,Espagne,13,High,False,0.0,2023-02-27 00:00:00
+631032b6-a624-4de3-b2d8-4b6fba438c42,Neymar,Paris Saint Germain,Brésil,13,High,True,91.72,2024-01-11 00:00:00
+c18075ed-5a84-4c73-a1c2-0d331d4ca03e,Erling Haaland,Manchester City,Norway,4,High,False,0.0,2024-03-04 00:00:00
+90af73a6-3637-4ae7-9396-71bb823a811e,Mohamed Salah,Liverpool,Maroc,16,High,False,0.0,2022-08-26 00:00:00
+b348542e-b64d-4ef0-916f-154f17484b3d,Harry Kane,Tottenham Hotspur,Angleterre,4,High,False,0.0,2022-11-10 00:00:00
+363e783a-ce12-44e0-b4df-3c2f464d8051,Neymar,Paris Saint Germain,Brésil,2,Medium,True,61.9,2022-09-15 00:00:00
+297d11a9-a930-4f01-9f8e-25b2f29d01ae,Harry Kane,Tottenham Hotspur,Angleterre,10,High,False,0.0,2022-07-04 00:00:00
+6ef41c25-db07-4599-b99e-239b13de3009,Karim Benzema,Real Madrid,France,3,Low,True,5.72,2024-05-22 00:00:00
+d37b60e0-10fb-4441-9ea9-1a2abcdb51d3,Antoine Griezmann,Atlético Madrid,France,3,Low,False,0.0,2023-01-11 00:00:00
+a5b30c99-2cc9-4472-8486-dd64c772dd20,Erling Haaland,Manchester City,Norway,16,High,False,0.0,2023-06-04 00:00:00
+22d0255e-118e-412d-8f29-d1501788f18f,Lionel Messi,Inter Miami,Argentina,17,Medium,False,0.0,2022-07-24 00:00:00
+6ccc80e8-9eca-4183-9f17-00f277b7f3b0,Lionel Messi,Inter Miami,Argentina,13,High,False,0.0,2024-09-14 00:00:00
+5c1d2667-9d4a-43e5-93e2-88e1f07705b8,Erling Haaland,Manchester City,Norway,10,High,False,0.0,2024-05-05 00:00:00
+cb5a8ecf-1340-4570-9ff5-9b9c55b0bd79,Harry Kane,Tottenham Hotspur,Angleterre,15,Low,True,6.01,2023-03-03 00:00:00
+c5d75f16-df2e-4725-ad1e-741a60991e76,Karim Benzema,Real Madrid,France,16,High,False,0.0,2022-01-14 00:00:00
+8ae3e9c0-95f4-4921-b57d-55201de76030,Erling Haaland,Manchester City,Norway,10,High,True,65.55,2022-03-22 00:00:00
+b3c5fe9f-797d-4331-b866-04468f37d084,Harry Kane,Tottenham Hotspur,Angleterre,7,High,False,0.0,2024-03-14 00:00:00
+d15322fe-4317-43f0-95f5-9bcd49349d11,Mohamed Salah,Liverpool,Maroc,14,Medium,True,50.25,2022-01-08 00:00:00
+521e45db-31a5-4024-ab46-2f152cf00e7e,Mohamed Salah,Liverpool,Maroc,8,Medium,True,30.18,2023-01-30 00:00:00
+6480715f-4c9f-4fbd-a9bc-8a0aea6042c9,Kylian Mbappé,Real Madrid,Espagne,5,Medium,False,0.0,2024-12-09 00:00:00
+a43871fb-f8c7-4734-9f79-20286269c550,Mohamed Salah,Liverpool,Maroc,4,High,False,0.0,2022-05-16 00:00:00
+244df8e2-be70-47c8-a03a-a56c1f1e7bf2,Paul Pogba,Manchester United,France,10,High,False,0.0,2023-07-27 00:00:00
+e40c6612-260e-41ba-9657-63801b8725bb,Cristiano Ronaldo,Al-Nassr,Portugal,8,Medium,True,78.09,2022-11-04 00:00:00
+351398bf-2d95-4a8c-bd66-df69ac77e9a3,Luka Modrić,Real Madrid,Croatie,18,Low,True,18.26,2022-12-14 00:00:00
+47939f9c-4540-4542-bdb8-2ab5c882f503,Cristiano Ronaldo,Al-Nassr,Portugal,9,Low,True,29.65,2022-11-16 00:00:00
+e835f1df-ab67-44e4-9d49-932e62e78b39,Mohamed Salah,Liverpool,Maroc,18,Low,False,0.0,2023-03-11 00:00:00
+adf5d57d-3ce7-4de9-9166-6ce1144c8e5e,Kylian Mbappé,Real Madrid,Espagne,4,High,False,0.0,2022-01-17 00:00:00
+92adf909-5819-4440-a330-3b9b278aca9d,Paul Pogba,Manchester United,France,14,Medium,True,69.41,2022-12-14 00:00:00
+b354cd36-b050-47bd-aa31-7697e63f1254,Erling Haaland,Manchester City,Norway,11,Medium,False,0.0,2023-12-04 00:00:00
+66ebd3ac-98ec-442c-833f-225ecf65e1d4,Kevin De Bruyne,Manchester City,Pays-Bas,1,High,False,0.0,2024-05-04 00:00:00
+ccfa87e8-a893-4798-84f7-0c3e2aae2cf7,Antoine Griezmann,Atlético Madrid,France,16,High,False,0.0,2023-01-24 00:00:00
+3e583db8-5557-44e5-84c2-9742a072f0e1,Cristiano Ronaldo,Al-Nassr,Portugal,13,High,False,0.0,2024-12-02 00:00:00
+d671b837-4797-45b8-9193-305b0d6dd961,Neymar,Paris Saint Germain,Brésil,7,High,True,91.31,2022-04-16 00:00:00
+c93fb66e-0262-43e0-952d-b0a502d57847,Lionel Messi,Inter Miami,Argentina,5,Medium,True,10.45,2022-06-26 00:00:00
+1ec3b9ae-7971-45f8-94db-4986226a0eee,Kylian Mbappé,Real Madrid,Espagne,8,Medium,True,17.04,2022-07-04 00:00:00
+64941d68-ce54-4d2d-a22e-e14f2718d02d,Marco Verratti,Manchester City,Italie,4,High,False,0.0,2022-12-27 00:00:00
+aa16f31e-289b-46be-a19e-39a2298e8c39,Lionel Messi,Inter Miami,Argentina,12,Low,True,64.65,2022-06-15 00:00:00
+a9fc6635-c5ac-4873-b9a2-89f98a7ea887,Marco Verratti,Manchester City,Italie,9,Low,False,0.0,2022-08-31 00:00:00
+849e6c34-5409-4233-bfe0-c1d3bad9cf05,Erling Haaland,Manchester City,Norway,13,High,False,0.0,2024-11-06 00:00:00
+c4a593e9-03a3-4256-ad15-59a053e90a9e,Kylian Mbappé,Real Madrid,Espagne,16,High,False,0.0,2022-07-14 00:00:00
+0f9fb758-363a-4238-8c25-afb10a895406,Harry Kane,Tottenham Hotspur,Angleterre,18,Low,False,0.0,2023-06-11 00:00:00
+8659e3a5-9d69-4263-9774-d3f0ff31f40b,Lionel Messi,Inter Miami,Argentina,2,Medium,True,24.53,2024-06-02 00:00:00
+698d7a65-be37-4404-b797-0d00ada83ce9,Kylian Mbappé,Real Madrid,Espagne,15,Low,True,17.83,2024-02-23 00:00:00
+09f59cb2-1267-4074-bc84-7ca99433a662,Antoine Griezmann,Atlético Madrid,France,14,Medium,True,21.39,2024-01-07 00:00:00
+5f258a60-3243-4e3b-96ac-41dc68179dc4,Antoine Griezmann,Atlético Madrid,France,16,High,False,0.0,2023-01-12 00:00:00
+b4a3414e-2758-4e70-8773-94003bc31bda,Neymar,Paris Saint Germain,Brésil,12,Low,True,99.16,2022-10-26 00:00:00
+54307371-e44c-43de-bd9d-3560208ed545,Luka Modrić,Real Madrid,Croatie,3,Low,False,0.0,2024-02-11 00:00:00
+a456be8a-ca12-4351-860d-2a0ce90dc599,Lionel Messi,Inter Miami,Argentina,13,High,False,0.0,2024-06-28 00:00:00
+eb208374-c209-4987-a44f-9d586449b5ed,Cristiano Ronaldo,Al-Nassr,Portugal,2,Medium,False,0.0,2022-09-11 00:00:00
+d6d98b29-1d66-41d3-8351-fb7a6cc877ce,Neymar,Paris Saint Germain,Brésil,9,Low,False,0.0,2023-08-26 00:00:00
+a8aa33ba-1903-48d8-bdb4-f1b6958583ca,Neymar,Paris Saint Germain,Brésil,5,Medium,False,0.0,2023-12-23 00:00:00
+fb751a02-31e2-4c1a-a998-c375dbb19895,Harry Kane,Tottenham Hotspur,Angleterre,4,High,False,0.0,2024-08-07 00:00:00
+292c93f6-570c-4b6d-b360-d8773c9d6d40,Cristiano Ronaldo,Al-Nassr,Portugal,17,Medium,True,80.86,2024-01-10 00:00:00
+5c128f36-e19e-48d0-a51c-54e754d75570,Harry Kane,Tottenham Hotspur,Angleterre,14,Medium,True,70.4,2023-02-12 00:00:00
+751f87e2-f47e-4c35-9e50-6cd2f3801003,Luka Modrić,Real Madrid,Croatie,4,High,True,40.59,2023-04-04 00:00:00
+d2ae6f4f-5f12-4eee-a927-d687cb4c779d,Antoine Griezmann,Atlético Madrid,France,13,High,False,0.0,2022-12-04 00:00:00
+153ccec0-189d-40f1-b531-61e490a153bf,Luka Modrić,Real Madrid,Croatie,9,Low,True,69.07,2023-10-08 00:00:00
+c649a030-f0e2-483c-9a17-01d3bb7b06ce,Harry Kane,Tottenham Hotspur,Angleterre,1,High,False,0.0,2024-07-26 00:00:00
+b8015137-b74d-43a4-b41b-c6e8fdebca37,Paul Pogba,Manchester United,France,4,High,False,0.0,2024-03-27 00:00:00
+e0a5f2f8-16e1-47f3-875c-c40a88bcd0e4,Luka Modrić,Real Madrid,Croatie,18,Low,False,0.0,2024-08-16 00:00:00
+3004a90e-600a-4099-b4e1-1ef9ed46430d,Antoine Griezmann,Atlético Madrid,France,18,Low,True,84.98,2024-06-30 00:00:00
+287a5569-9c28-4672-ae1e-4ec6384b8677,Kevin De Bruyne,Manchester City,Pays-Bas,15,Low,False,0.0,2024-07-12 00:00:00
+2dde7a9b-e40d-4e76-b183-89c78464b0bb,Marco Verratti,Manchester City,Italie,7,High,True,70.36,2024-07-26 00:00:00
+fc20b4ee-c876-4b7f-b54a-ca2de1cf336c,Cristiano Ronaldo,Al-Nassr,Portugal,8,Medium,False,0.0,2022-11-03 00:00:00
+ff82a351-d313-471b-9171-2934ff1e90ad,Erling Haaland,Manchester City,Norway,5,Medium,True,67.55,2023-04-04 00:00:00
+4029d21b-1ba4-448b-a92a-55007686b499,Cristiano Ronaldo,Al-Nassr,Portugal,17,Medium,True,43.06,2023-12-05 00:00:00
+bb860b55-bed6-488d-add2-1701fb182dd9,Marco Verratti,Manchester City,Italie,7,High,False,0.0,2024-03-26 00:00:00
+3776457e-f9ec-4577-81fc-7d29e106a644,Antoine Griezmann,Atlético Madrid,France,9,Low,False,0.0,2023-09-27 00:00:00
+4a4eed25-d850-4b04-8db1-094c9209ebea,Antoine Griezmann,Atlético Madrid,France,11,Medium,False,0.0,2024-05-11 00:00:00
+5ebffef7-a94f-4c7c-b0b8-67d4274a5fe4,Harry Kane,Tottenham Hotspur,Angleterre,5,Medium,False,0.0,2024-07-04 00:00:00
+9ef7730e-97cb-47e8-9337-593099a977e3,Karim Benzema,Real Madrid,France,11,Medium,True,96.56,2022-12-17 00:00:00
+916a87fe-aa35-4234-82a5-695be23ee367,Lionel Messi,Inter Miami,Argentina,10,High,False,0.0,2022-07-07 00:00:00
+73d4af48-5f53-4711-a724-f578a9af0aa8,Luka Modrić,Real Madrid,Croatie,6,Low,False,0.0,2022-12-06 00:00:00
+94b2992c-407e-4f2e-8bef-704c036b1d14,Neymar,Paris Saint Germain,Brésil,15,Low,True,73.59,2022-03-22 00:00:00
+18d1bd98-7f2e-499d-8099-a816c21ad310,Karim Benzema,Real Madrid,France,16,High,False,0.0,2023-03-16 00:00:00
+7c9d1bb9-d243-4a25-b963-2fc43538c468,Antoine Griezmann,Atlético Madrid,France,4,High,False,0.0,2023-04-05 00:00:00
+3d396867-11f1-4de3-ab87-a1b087d35515,Neymar,Paris Saint Germain,Brésil,13,High,False,0.0,2022-05-25 00:00:00
+f6eb2354-b513-4dae-8c18-7f6bc4a25a0f,Harry Kane,Tottenham Hotspur,Angleterre,2,Medium,False,0.0,2022-07-19 00:00:00
+5c41dee6-46a6-4038-818c-48762fbbc35f,Harry Kane,Tottenham Hotspur,Angleterre,1,High,True,77.55,2024-06-29 00:00:00
+212b20e9-f1fb-417b-862a-6484c3858e1a,Kevin De Bruyne,Manchester City,Pays-Bas,10,High,False,0.0,2024-02-14 00:00:00
+e8126f84-bb45-41a7-bd31-a56a8e76ec01,Kylian Mbappé,Real Madrid,Espagne,8,Medium,True,41.03,2022-05-21 00:00:00
+0fba83a0-8495-435c-bb35-39db0f520573,Luka Modrić,Real Madrid,Croatie,10,High,False,0.0,2023-12-27 00:00:00
+c2b38d3d-f5f2-42c5-8efc-7502aec279f2,Cristiano Ronaldo,Al-Nassr,Portugal,13,High,True,36.29,2023-11-23 00:00:00
+5fc99a58-deaf-40e2-824c-fcc4e85fee8e,Kevin De Bruyne,Manchester City,Pays-Bas,1,High,True,22.78,2024-05-14 00:00:00
+e01827c2-d306-46d3-9311-5d31a53b6ac7,Karim Benzema,Real Madrid,France,16,High,False,0.0,2023-09-30 00:00:00
+ef69f03d-a39b-43a0-8c0f-ef49425719ff,Marco Verratti,Manchester City,Italie,3,Low,True,54.06,2024-08-23 00:00:00
+1ddac98e-7ef0-4d42-9912-f8e99abd54b4,Sergio Ramos,Real Madrid,Espagne,14,Medium,True,66.27,2023-10-30 00:00:00
+29c37a98-e5a4-47d1-ba82-ff2a2496be0c,Kylian Mbappé,Real Madrid,Espagne,6,Low,True,99.08,2024-04-03 00:00:00
+fc44853a-9de7-4781-93dc-a06eba6ceaf1,Lionel Messi,Inter Miami,Argentina,2,Medium,False,0.0,2022-01-16 00:00:00
+3825ee0a-7283-4cd0-8d1b-2fbff828e892,Mohamed Salah,Liverpool,Maroc,12,Low,False,0.0,2022-04-28 00:00:00
+c2d4ad44-a662-4513-b660-fd44ad3474e2,Luka Modrić,Real Madrid,Croatie,16,High,False,0.0,2022-04-14 00:00:00
+f5c1a275-3b10-47c8-9155-3c0a95922461,Mohamed Salah,Liverpool,Maroc,18,Low,False,0.0,2022-04-30 00:00:00
+c3022582-eff8-4339-80af-10eaea1df7f9,Paul Pogba,Manchester United,France,5,Medium,True,38.26,2023-05-24 00:00:00
+23dca3dc-4fec-47b1-bd60-677bb5101a42,Mohamed Salah,Liverpool,Maroc,5,Medium,True,79.12,2022-11-08 00:00:00
+7905ba1a-08d4-4104-bdf7-9eab3df5d630,Kylian Mbappé,Real Madrid,Espagne,5,Medium,True,69.05,2022-10-04 00:00:00
+d5cd0a37-4fa4-420c-905f-2e1a6acebae5,Mohamed Salah,Liverpool,Maroc,16,High,True,86.16,2022-02-07 00:00:00
+a88b01f6-59e3-4abf-90ae-8e9e9a804e58,Cristiano Ronaldo,Al-Nassr,Portugal,7,High,True,15.44,2024-05-18 00:00:00
+b4a42cd2-31e4-448d-80fc-6311570571ef,Paul Pogba,Manchester United,France,8,Medium,True,85.55,2024-08-31 00:00:00
+32285293-3ae6-4203-b9bf-4a3d19eb0272,Lionel Messi,Inter Miami,Argentina,3,Low,True,44.0,2022-07-18 00:00:00
+c3efc294-2a1e-4346-8c9d-e5bc60041704,Kevin De Bruyne,Manchester City,Pays-Bas,17,Medium,False,0.0,2024-11-30 00:00:00
+d5d9521d-1aea-4fbf-a9e2-ba24ccfcb53a,Harry Kane,Tottenham Hotspur,Angleterre,9,Low,False,0.0,2023-06-02 00:00:00
+ed736858-3117-4172-bab0-ee4001ae1dfc,Marco Verratti,Manchester City,Italie,4,High,True,57.54,2022-07-08 00:00:00
+4f34cc09-f467-4022-8e50-b4cb94a8f3f4,Kevin De Bruyne,Manchester City,Pays-Bas,3,Low,True,71.24,2024-09-30 00:00:00
+f2a845a4-922b-476b-a13a-20865cfeecfd,Paul Pogba,Manchester United,France,10,High,True,81.94,2022-04-27 00:00:00
+4cddf946-8314-4303-88d7-fa98406baa9b,Kevin De Bruyne,Manchester City,Pays-Bas,17,Medium,True,24.59,2024-01-01 00:00:00
+14e3b67c-f5cf-490d-84ce-2382de62cd99,Neymar,Paris Saint Germain,Brésil,13,High,True,21.99,2022-09-29 00:00:00
+294d74b7-8e99-48ef-9844-72578b494a6a,Lionel Messi,Inter Miami,Argentina,1,High,False,0.0,2024-10-09 00:00:00
+51b1d725-90d8-4357-8ea6-5d87754dd44e,Kevin De Bruyne,Manchester City,Pays-Bas,4,High,False,0.0,2022-11-29 00:00:00
+ed3b536d-6c74-4bce-96e6-8e76bb5343bd,Karim Benzema,Real Madrid,France,7,High,True,63.83,2022-11-04 00:00:00
+a5bac42d-ed52-4a46-acad-2229eecbd4f1,Antoine Griezmann,Atlético Madrid,France,16,High,True,15.68,2023-11-19 00:00:00
+53efcfd7-5356-4376-be36-2002980cd253,Erling Haaland,Manchester City,Norway,2,Medium,False,0.0,2024-10-07 00:00:00
+10456ae4-654f-432a-bab8-837b72fcb140,Lionel Messi,Inter Miami,Argentina,14,Medium,False,0.0,2023-02-13 00:00:00
+d2d1954a-f05e-4b9a-9392-9c10be645113,Cristiano Ronaldo,Al-Nassr,Portugal,2,Medium,True,72.5,2022-05-26 00:00:00
+a71475e0-2038-4603-b089-b32da6002006,Mohamed Salah,Liverpool,Maroc,12,Low,True,17.51,2022-02-18 00:00:00
+b3f58a91-5d70-4822-97a9-b56cb6267816,Mohamed Salah,Liverpool,Maroc,2,Medium,False,0.0,2022-11-29 00:00:00
+37023a13-e8ec-43b5-9311-7d9bc5b31eec,Neymar,Paris Saint Germain,Brésil,8,Medium,True,91.0,2024-04-16 00:00:00
+47911db3-ef55-4291-9a2b-2ebbf3e5906b,Paul Pogba,Manchester United,France,6,Low,True,86.89,2024-11-12 00:00:00
+35390333-4293-40b1-af0c-37d9152a8183,Erling Haaland,Manchester City,Norway,10,High,False,0.0,2022-04-18 00:00:00
+652544fd-3129-42be-8e0a-b62f667e9595,Harry Kane,Tottenham Hotspur,Angleterre,9,Low,False,0.0,2022-08-16 00:00:00
+4ab68f3c-2aef-42d2-8fa5-dbfd07b11cb3,Harry Kane,Tottenham Hotspur,Angleterre,2,Medium,True,11.1,2023-11-07 00:00:00
+c15e5994-730a-4583-95c5-188d9c08bf5f,Cristiano Ronaldo,Al-Nassr,Portugal,17,Medium,True,41.81,2022-12-20 00:00:00
+9248b924-4cbc-44cb-ba59-4a1f3646ebb2,Marco Verratti,Manchester City,Italie,4,High,False,0.0,2024-10-11 00:00:00
+6c95d68c-03c0-42d4-ad5d-ae105448180d,Neymar,Paris Saint Germain,Brésil,17,Medium,False,0.0,2022-04-24 00:00:00
+bd0fc9cb-4d01-4d27-aed6-cd035f74f351,Neymar,Paris Saint Germain,Brésil,6,Low,False,0.0,2024-01-13 00:00:00
+d23bc7a0-c769-46ed-bd9e-e607c8ce895d,Luka Modrić,Real Madrid,Croatie,14,Medium,False,0.0,2024-01-10 00:00:00
+bbda88cf-d198-4025-85f8-376a31c8df49,Marco Verratti,Manchester City,Italie,3,Low,True,72.63,2024-10-22 00:00:00
+25a00b1c-e2b9-4daf-8109-f5a4f1f62dc2,Kylian Mbappé,Real Madrid,Espagne,2,Medium,True,86.11,2023-10-31 00:00:00
+b8f79ec8-f208-4ef2-a63a-8f302ab50737,Karim Benzema,Real Madrid,France,5,Medium,False,0.0,2023-05-16 00:00:00
+bd5f34dd-e36d-4b99-9c58-970ead0f2a4b,Harry Kane,Tottenham Hotspur,Angleterre,9,Low,True,46.2,2022-11-09 00:00:00
+e2e4d819-49e0-445d-baf9-f46e9278de0f,Luka Modrić,Real Madrid,Croatie,13,High,True,13.21,2023-10-19 00:00:00
+85bc7ddb-4910-4fe7-aec5-b00420913705,Kylian Mbappé,Real Madrid,Espagne,11,Medium,False,0.0,2023-10-12 00:00:00
+23aca0eb-5d59-491a-8b6a-87813598f4a1,Kylian Mbappé,Real Madrid,Espagne,3,Low,False,0.0,2024-09-12 00:00:00
+ca2b17eb-03aa-4ac0-88a5-00f87b8e32de,Mohamed Salah,Liverpool,Maroc,11,Medium,False,0.0,2024-04-16 00:00:00
+6515bec6-8e6a-423c-9fbc-bf99771d0d32,Cristiano Ronaldo,Al-Nassr,Portugal,7,High,False,0.0,2023-07-26 00:00:00
+a5651459-3652-455a-be78-0276e58a9688,Marco Verratti,Manchester City,Italie,14,Medium,True,72.84,2024-03-07 00:00:00
+9ba36998-5e9b-4cf8-bcc0-4afcdd5284e8,Harry Kane,Tottenham Hotspur,Angleterre,18,Low,True,46.82,2023-12-16 00:00:00
+6be913b9-cd96-471d-954e-863c45dcb0a1,Neymar,Paris Saint Germain,Brésil,14,Medium,False,0.0,2024-06-11 00:00:00
+c19c8239-86be-43f1-af74-5940f4b78698,Sergio Ramos,Real Madrid,Espagne,18,Low,False,0.0,2024-10-07 00:00:00
+4db6955f-31dd-49e7-85a3-417584dfa86e,Sergio Ramos,Real Madrid,Espagne,3,Low,False,0.0,2023-12-17 00:00:00
+8719e799-15e1-4b26-b6dc-24f92c8b4400,Paul Pogba,Manchester United,France,12,Low,True,48.72,2023-03-13 00:00:00
+692657e6-a6ad-4a0a-acc8-4373e0604f4a,Luka Modrić,Real Madrid,Croatie,17,Medium,True,19.26,2023-06-12 00:00:00
+e6b2d561-bbbc-4a60-a526-a6a72d7cbb6d,Kevin De Bruyne,Manchester City,Pays-Bas,7,High,True,18.51,2022-09-08 00:00:00
+e4c1d89b-c029-460d-9c91-a718bff4f41d,Cristiano Ronaldo,Al-Nassr,Portugal,8,Medium,True,20.7,2022-10-09 00:00:00
+b68505d9-e59f-4230-9777-7ab168054688,Cristiano Ronaldo,Al-Nassr,Portugal,9,Low,False,0.0,2023-10-18 00:00:00
+c6cdab32-8850-4aad-a388-00926dcf636f,Karim Benzema,Real Madrid,France,18,Low,False,0.0,2024-06-15 00:00:00
+4ccf088a-d7d1-43ea-a3b7-9c9ddc52de7c,Erling Haaland,Manchester City,Norway,8,Medium,False,0.0,2024-05-07 00:00:00
+0196c962-522b-44e9-a2e9-d2a0e40ba25a,Luka Modrić,Real Madrid,Croatie,11,Medium,True,44.72,2024-01-05 00:00:00
+913c04bc-41f0-465f-92e4-c25d4d393fc9,Karim Benzema,Real Madrid,France,16,High,True,90.22,2022-08-16 00:00:00
+7f337321-6001-4d90-8e0f-a69f373d10b9,Kylian Mbappé,Real Madrid,Espagne,11,Medium,True,88.39,2024-05-04 00:00:00
+1809c2c5-ef92-49e2-90e6-def89546029e,Kylian Mbappé,Real Madrid,Espagne,10,High,True,10.95,2023-05-24 00:00:00
+2fb2e110-e4e9-4062-9471-313400469b85,Luka Modrić,Real Madrid,Croatie,1,High,False,0.0,2023-02-19 00:00:00
+30cd12d7-b0ab-49ae-a5eb-5862a1c75283,Erling Haaland,Manchester City,Norway,8,Medium,False,0.0,2023-12-03 00:00:00
+10095b92-9c9d-4872-93bc-5364e2723833,Mohamed Salah,Liverpool,Maroc,6,Low,True,30.56,2022-08-22 00:00:00
+db6f61b4-e977-4eed-b715-066311daf1dc,Sergio Ramos,Real Madrid,Espagne,12,Low,False,0.0,2023-04-01 00:00:00
+c9226ed0-ee96-48f8-bce3-8ef7e3d6fabf,Neymar,Paris Saint Germain,Brésil,11,Medium,False,0.0,2024-01-24 00:00:00
+c9986a3a-773f-43cb-9910-ac26cedea1f7,Kylian Mbappé,Real Madrid,Espagne,7,High,False,0.0,2023-03-04 00:00:00
+796702d4-a701-421a-a8fe-c1c25b574505,Cristiano Ronaldo,Al-Nassr,Portugal,16,High,False,0.0,2024-07-29 00:00:00
+13fe5765-30ed-435c-8a12-8645a9bd9bbc,Cristiano Ronaldo,Al-Nassr,Portugal,6,Low,True,74.07,2022-04-09 00:00:00
+f4e83174-964c-41bb-8249-07e267429cfb,Lionel Messi,Inter Miami,Argentina,8,Medium,True,5.22,2022-12-01 00:00:00
+d74f4bbc-7e61-40ca-8904-9dd7ad4048ba,Lionel Messi,Inter Miami,Argentina,18,Low,True,98.68,2023-01-22 00:00:00
+19baf6a8-4a1c-407f-b648-27a53654bbad,Harry Kane,Tottenham Hotspur,Angleterre,18,Low,False,0.0,2024-10-16 00:00:00
+919233b1-da44-49e8-a2ac-4e3a758628c5,Mohamed Salah,Liverpool,Maroc,2,Medium,False,0.0,2024-06-30 00:00:00
+c31a986a-7a9d-4b54-8e62-c9e6a794f4e5,Paul Pogba,Manchester United,France,3,Low,False,0.0,2023-06-08 00:00:00
+3b8a3f03-3724-451f-b418-0d35c15ccaca,Karim Benzema,Real Madrid,France,16,High,True,10.67,2024-11-27 00:00:00
+c06a825e-4a2c-4ba8-b911-272bf7ff05ae,Sergio Ramos,Real Madrid,Espagne,5,Medium,True,41.92,2022-09-15 00:00:00
+cf93b31e-292a-4744-854c-b006f9ee4ea1,Kevin De Bruyne,Manchester City,Pays-Bas,7,High,False,0.0,2024-08-21 00:00:00
+91bf2776-b0f2-4feb-819f-1bc71d3d4676,Erling Haaland,Manchester City,Norway,16,High,True,18.44,2022-02-19 00:00:00
+4673b96b-709f-4edc-a021-c3bcb5da5f5a,Lionel Messi,Inter Miami,Argentina,17,Medium,False,0.0,2023-07-26 00:00:00
+4fdd0373-057f-402e-b1cd-c0bf7f223d70,Harry Kane,Tottenham Hotspur,Angleterre,13,High,False,0.0,2023-03-17 00:00:00
