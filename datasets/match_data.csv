@@ -1,0 +1,201 @@
+itemId,MatchId,HomeTeam,AwayTeam,userId,userRiskType,UserVote,BetPlaced,BetAmount,BetOutcome
+05eb0bb6-83a8-4fc6-bfb7-0b78e456c162,1005,Boca Juniors,Ajax,4,High,Neutral,True,85.6,Pending
+6c5acd31-24a9-4519-a9c7-297e4d1826b7,1044,Al-Ahli,Club Brugge,4,High,AwayTeam,False,0.0,
+f01fb312-15c4-4471-afe7-5be59c263e88,1019,Al-Ittihad,Tottenham Hotspur,6,Low,Neutral,True,23.03,Lose
+505bf3d3-34fa-4c9d-adab-be79021239a6,1001,Atalanta,Monaco,4,High,Neutral,True,72.6,Pending
+55ddbc6c-56b5-47ae-a7d6-54b9a99b0015,1027,Flamengo,Besiktas,9,Low,HomeTeam,True,5.93,Win
+86af82bf-1b90-41f8-8fd4-f235b8bf1177,1016,Sevilla,AC Milan,6,Low,AwayTeam,False,0.0,
+42fc53a2-fee4-4440-a42a-23bbbfc27aa7,1008,Real Betis,Club Brugge,7,High,Neutral,True,55.75,Pending
+f8cbee0d-1807-42cd-b813-23fdfc3fcb69,1021,Inter Miami,Napoli,7,High,Neutral,False,0.0,
+55af66b7-a7b6-45c7-8efc-62143203dc78,1022,Zenit Saint Petersburg,Manchester United,4,High,Neutral,False,0.0,
+6e7a301f-b926-49fd-9f56-cb3183b3355c,1028,Rangers,Zenit Saint Petersburg,1,High,AwayTeam,False,0.0,
+c9f0b9c1-7397-4776-9743-f6b5fc38b3f8,1001,Atalanta,Monaco,9,Low,HomeTeam,False,0.0,
+09b46fa4-a592-4fef-b011-b462bc0507ee,1043,Al-Nassr,Club Brugge,9,Low,AwayTeam,False,0.0,
+2a45641a-d07b-437e-918e-d1accab86bed,1042,Bayern Munich,Valencia,2,Medium,HomeTeam,False,0.0,
+74881d98-f0a7-444e-9e8e-6d880ab6e4ec,1035,Tottenham Hotspur,Atalanta,2,Medium,AwayTeam,False,0.0,
+7f9d67b5-5de0-4e40-9a4c-31d1c07a3fd3,1010,Fenerbahçe,Al-Ahli,2,Medium,Neutral,False,0.0,
+e383748f-8497-41c9-962d-e4a59529bfa2,1003,Lazio,Borussia Dortmund,1,High,Neutral,True,96.63,Lose
+38768ad0-dfba-450b-9398-17319e94a075,1010,Fenerbahçe,Al-Ahli,4,High,Neutral,False,0.0,
+6bf52968-a10b-4004-a2f6-ce50f843dd45,1005,Boca Juniors,Ajax,5,Medium,HomeTeam,True,42.83,Lose
+f21e19a9-dc22-40d7-8780-5b5b163623f1,1003,Lazio,Borussia Dortmund,9,Low,HomeTeam,True,22.17,Lose
+497ffcea-b117-47af-9072-3424aa48df03,1050,Ajax,Chelsea,5,Medium,Neutral,False,0.0,
+d50aafb9-de0d-44ee-bbbc-fd701567fb78,1035,Tottenham Hotspur,Atalanta,9,Low,HomeTeam,True,95.01,Lose
+44715f54-b6b5-4494-9669-1ce4a81a26ea,1034,Olympiacos,PSV Eindhoven,8,Medium,Neutral,True,72.22,Win
+71449224-bef3-462c-a782-52c8f7466c02,1045,Flamengo,AC Milan,10,High,HomeTeam,True,26.65,Lose
+0ed354ee-6e25-4ae3-8946-3e630b8c2be9,1028,Rangers,Zenit Saint Petersburg,1,High,HomeTeam,True,65.78,Pending
+4301560d-3ea5-4772-b103-019a6d5222d4,1021,Inter Miami,Napoli,1,High,HomeTeam,True,46.79,Pending
+40fde87b-d7dd-4a24-b94a-588bf4bcb324,1016,Sevilla,AC Milan,3,Low,Neutral,True,54.15,Lose
+3bf05857-176d-4ceb-af05-fa20ac35ceb5,1021,Inter Miami,Napoli,6,Low,Neutral,False,0.0,
+536dc9ed-62e4-4b97-b224-9668d7b75aae,1041,Atlético Madrid,Wolverhampton Wanderers,3,Low,AwayTeam,True,67.56,Pending
+1431c320-6695-47c2-883c-c50322231fae,1050,Ajax,Chelsea,9,Low,AwayTeam,False,0.0,
+17f1aa56-b096-48c4-b25a-f4f74df2a8c4,1025,Club Brugge,Rangers,3,Low,Neutral,False,0.0,
+5fb23cfb-7f03-45bc-bb07-d3e78b0aa538,1032,Napoli,Atlético Madrid,6,Low,HomeTeam,False,0.0,
+e1fba07d-ccdc-4464-90ff-8b6d6e03daf1,1039,Tottenham Hotspur,Borussia Dortmund,6,Low,AwayTeam,False,0.0,
+95639b62-589c-41fd-a044-73b3d4e8fa98,1019,Al-Ittihad,Tottenham Hotspur,5,Medium,AwayTeam,False,0.0,
+28e90c8a-613a-467a-ba21-062ca7b06236,1024,Juventus,Zenit Saint Petersburg,8,Medium,HomeTeam,True,21.66,Win
+e9faef1d-2fcd-4720-a448-af459496f792,1039,Tottenham Hotspur,Borussia Dortmund,4,High,Neutral,False,0.0,
+5148a3db-02f9-4911-a4b2-74c1e23c2d0f,1004,Marseille,Al-Ahli,5,Medium,AwayTeam,False,0.0,
+12ca0859-d7ca-45c0-8dd0-e47c414729ed,1040,Monaco,RB Leipzig,2,Medium,Neutral,True,20.0,Lose
+da1446b4-374d-433a-97f1-c9a28513a230,1039,Tottenham Hotspur,Borussia Dortmund,9,Low,HomeTeam,False,0.0,
+3f79b081-60f9-404e-99a1-87049d43314a,1016,Sevilla,AC Milan,2,Medium,AwayTeam,False,0.0,
+93727504-8c65-4e57-ba84-7fa62f4b923a,1015,Paris Saint Germain,Atlético Madrid,9,Low,Neutral,False,0.0,
+7712d452-b16a-4d8e-b64c-c2fa7058be92,1024,Juventus,Zenit Saint Petersburg,10,High,AwayTeam,True,80.07,Lose
+bc0517ac-fab8-40d3-9f6d-2cd64c9f13f7,1027,Flamengo,Besiktas,7,High,AwayTeam,True,67.32,Pending
+4e19dd3f-2037-4d84-89ab-4ceffde6314d,1006,Inter Milan,Shakhtar Donetsk,5,Medium,Neutral,False,0.0,
+44f1fb5b-22e3-480a-8794-4ade7062fb19,1028,Rangers,Zenit Saint Petersburg,2,Medium,Neutral,True,29.51,Win
+801aa93b-313a-40e8-ba7a-289067950cf2,1034,Olympiacos,PSV Eindhoven,9,Low,AwayTeam,False,0.0,
+71b327ed-b5b3-4e37-b7b3-6a85d6801874,1012,River Plate,Marseille,10,High,HomeTeam,True,52.5,Lose
+8f483872-0ff3-4395-9aaa-bcafd7461cd1,1023,Celtic,Napoli,8,Medium,Neutral,False,0.0,
+0f0f617e-0139-40ad-9e22-1d55fd4621de,1021,Inter Miami,Napoli,8,Medium,AwayTeam,True,16.75,Pending
+7769e10a-9273-468f-b8d7-bd1f0fba2f27,1034,Olympiacos,PSV Eindhoven,8,Medium,HomeTeam,True,33.54,Lose
+e88a9926-b6fd-4b48-8a64-4f9e518165b0,1027,Flamengo,Besiktas,4,High,Neutral,True,73.41,Win
+392d4cc1-3879-4ca3-8882-4c5fb9a76fbb,1029,Celtic,Real Madrid,6,Low,HomeTeam,False,0.0,
+7dbea6b3-fe83-4b16-ae91-00b90689a895,1026,Al-Ittihad,Valencia,9,Low,Neutral,True,42.06,Lose
+b7c36f2c-8831-4d29-83a4-8ad98cff5ece,1032,Napoli,Atlético Madrid,10,High,HomeTeam,False,0.0,
+32d592ec-c369-4ef2-889d-cf2e8e9e61ea,1037,Sevilla,Al-Nassr,3,Low,AwayTeam,True,72.21,Pending
+24a6e832-819d-402f-8e9d-a574d83ed6be,1040,Monaco,RB Leipzig,5,Medium,Neutral,False,0.0,
+983415c4-f98a-4a49-a04a-a2fdb0c9e37a,1039,Tottenham Hotspur,Borussia Dortmund,7,High,AwayTeam,False,0.0,
+2dd86afc-66fb-4578-9753-8bf5d5328de8,1038,PSV Eindhoven,Real Madrid,1,High,HomeTeam,False,0.0,
+ded40c28-9f30-43ac-a7b4-3d36109cad93,1004,Marseille,Al-Ahli,6,Low,AwayTeam,False,0.0,
+e454e1eb-8468-4b87-a7f0-14f806f2991c,1015,Paris Saint Germain,Atlético Madrid,6,Low,Neutral,False,0.0,
+6a2343d1-4c3d-4ee7-a3a1-d6139ea7dc9d,1050,Ajax,Chelsea,1,High,HomeTeam,False,0.0,
+7a3607a6-41f3-4647-8ac7-23996d41ed5d,1037,Sevilla,Al-Nassr,3,Low,HomeTeam,False,0.0,
+2b732f01-af1b-4791-849e-8463ca8d7a0c,1023,Celtic,Napoli,5,Medium,Neutral,True,16.87,Pending
+c70e801e-3b69-4bdd-8423-6b75bacb5c5c,1035,Tottenham Hotspur,Atalanta,7,High,AwayTeam,True,24.7,Win
+a1e9c475-c76e-45f9-8ffd-f0c8948f0f0e,1034,Olympiacos,PSV Eindhoven,9,Low,Neutral,False,0.0,
+4518d43c-a5f1-45ae-a3cf-305451e29bbb,1045,Flamengo,AC Milan,2,Medium,AwayTeam,True,95.05,Lose
+c7539ccd-4eec-44de-bd4d-735b32063b6f,1039,Tottenham Hotspur,Borussia Dortmund,2,Medium,Neutral,True,69.73,Win
+d54b50f6-05c9-44a3-9c42-976641712a9a,1050,Ajax,Chelsea,8,Medium,Neutral,True,74.25,Pending
+71e56547-0727-491a-9d4b-c222ef72081f,1008,Real Betis,Club Brugge,1,High,Neutral,True,43.95,Win
+430e7425-bd16-473d-8c80-68689db165ef,1050,Ajax,Chelsea,2,Medium,HomeTeam,False,0.0,
+ca5c03e0-843a-4e03-a0cb-cb9994e196e5,1027,Flamengo,Besiktas,5,Medium,HomeTeam,False,0.0,
+4733c3d0-9014-404c-8c16-4c65c72f4ec4,1018,Napoli,Newcastle United,1,High,HomeTeam,False,0.0,
+d6d14148-433e-43c3-bedf-b375f498dd66,1004,Marseille,Al-Ahli,4,High,Neutral,True,95.79,Win
+7ba681fe-b9e0-4379-a1da-f6bf323f979b,1036,Eintracht Frankfurt,Manchester City,2,Medium,Neutral,True,67.67,Lose
+855b3c59-3616-4967-b808-20bf9f23cfe0,1028,Rangers,Zenit Saint Petersburg,2,Medium,HomeTeam,False,0.0,
+156a00b1-a851-4622-bdee-27d4d2937a25,1015,Paris Saint Germain,Atlético Madrid,9,Low,Neutral,True,34.46,Lose
+b8630f52-4b1e-4b37-960d-9ce815f730ea,1003,Lazio,Borussia Dortmund,1,High,HomeTeam,True,32.35,Lose
+42212134-0c23-47a3-8071-5bce242fa116,1042,Bayern Munich,Valencia,1,High,AwayTeam,False,0.0,
+71784d60-2ddc-470e-b16b-7e029290be68,1044,Al-Ahli,Club Brugge,6,Low,Neutral,False,0.0,
+f14cb010-d6b1-4b63-a20a-706389143f7c,1029,Celtic,Real Madrid,5,Medium,HomeTeam,False,0.0,
+80482dea-2c59-4b7d-9958-ae945f26c979,1025,Club Brugge,Rangers,4,High,HomeTeam,True,83.15,Win
+495c896d-fdbc-458f-88b7-f4f1e90bcb49,1038,PSV Eindhoven,Real Madrid,7,High,Neutral,True,50.82,Lose
+436170da-0184-4884-ad82-0d63fa72ceaf,1011,Monaco,Real Betis,10,High,Neutral,True,24.66,Win
+514940f2-3243-46e6-b8cf-f97933749852,1028,Rangers,Zenit Saint Petersburg,7,High,Neutral,False,0.0,
+88d3a9a4-ed99-42a0-90e0-746ca1669359,1023,Celtic,Napoli,3,Low,AwayTeam,True,72.5,Win
+68820d12-5839-4204-9dd4-9a22bf0d948e,1042,Bayern Munich,Valencia,8,Medium,Neutral,True,58.33,Win
+dd157c68-dcc9-444d-a85f-41a55f02e2aa,1036,Eintracht Frankfurt,Manchester City,5,Medium,HomeTeam,False,0.0,
+0c20a040-3499-4dbe-b7da-1b541bf3a346,1041,Atlético Madrid,Wolverhampton Wanderers,5,Medium,Neutral,True,65.82,Lose
+840a6b44-62a3-4312-a216-2d0ba68cecd0,1049,Porto,AS Roma,2,Medium,AwayTeam,False,0.0,
+7e392c3f-e8e7-483a-89fd-0319de134125,1009,Santos,Atlético Madrid,1,High,Neutral,False,0.0,
+0bc3ae8d-429e-4453-99e9-bfcb0a817e91,1021,Inter Miami,Napoli,4,High,Neutral,False,0.0,
+e5f4b31d-cbdd-4a0f-8dd8-5b64e64e74a5,1003,Lazio,Borussia Dortmund,2,Medium,Neutral,False,0.0,
+f785ef4e-ad63-41f0-9dd5-6d39025ecd53,1027,Flamengo,Besiktas,4,High,HomeTeam,False,0.0,
+9ab33377-55ef-4253-8934-fba2e65173ee,1044,Al-Ahli,Club Brugge,5,Medium,HomeTeam,False,0.0,
+c1cedc7e-765e-4fce-9fa4-b76d82f76b66,1004,Marseille,Al-Ahli,2,Medium,Neutral,True,16.86,Win
+c36afdf8-9e0f-4e4d-a019-2c53e55a85dc,1035,Tottenham Hotspur,Atalanta,1,High,AwayTeam,False,0.0,
+612cba6a-60f4-4a86-8327-2a78b7997960,1028,Rangers,Zenit Saint Petersburg,3,Low,HomeTeam,False,0.0,
+f7bb539e-585c-46b1-af9b-16b292280b22,1002,Rangers,Eintracht Frankfurt,9,Low,Neutral,False,0.0,
+7d3d24e4-ddca-4aa7-8e43-43ee2eaa3dff,1024,Juventus,Zenit Saint Petersburg,2,Medium,AwayTeam,True,67.35,Win
+f7dfab26-e689-4a6d-9926-d1293f792d6d,1045,Flamengo,AC Milan,6,Low,AwayTeam,True,22.33,Pending
+606cdb79-68fa-4fe2-b02b-a7354b60039b,1028,Rangers,Zenit Saint Petersburg,2,Medium,Neutral,False,0.0,
+507d3ac8-016c-4972-8633-4c36afed8281,1029,Celtic,Real Madrid,5,Medium,HomeTeam,True,49.2,Lose
+71e24c12-3540-4cfe-899d-07468c329656,1032,Napoli,Atlético Madrid,5,Medium,AwayTeam,True,23.6,Pending
+4292ebf3-bdf1-4c0f-93cf-478ec3f9fad8,1006,Inter Milan,Shakhtar Donetsk,2,Medium,AwayTeam,True,17.32,Win
+7d556a49-6a8e-4369-b5e1-7d77e35845c8,1005,Boca Juniors,Ajax,10,High,Neutral,False,0.0,
+5040c416-0c96-483c-aaf1-ec4fd11d2862,1013,Lazio,AS Roma,5,Medium,HomeTeam,True,11.18,Win
+04b7926e-b9bf-48b7-bb18-da85d78316cd,1020,Lazio,Santos,3,Low,HomeTeam,True,27.1,Win
+caa69570-f8c8-49ec-9be7-0191d6585e8d,1035,Tottenham Hotspur,Atalanta,10,High,HomeTeam,True,78.37,Pending
+d9036334-bebb-42c3-9fb5-3eb91f867a60,1027,Flamengo,Besiktas,4,High,Neutral,True,48.33,Pending
+e80a71cd-527b-4db1-801a-b7243e88577c,1030,Paris Saint Germain,Rangers,9,Low,Neutral,False,0.0,
+81dc2f3b-2910-44d4-9217-e220a607d310,1031,Juventus,AS Roma,9,Low,HomeTeam,True,46.33,Pending
+624a5e77-90b4-4c2a-9176-ba07a72421e1,1027,Flamengo,Besiktas,5,Medium,AwayTeam,False,0.0,
+67569f8f-2375-4141-abef-ab74e7ccb292,1024,Juventus,Zenit Saint Petersburg,1,High,AwayTeam,True,12.92,Lose
+515aac48-5078-4d26-a717-be72a6251971,1014,Atalanta,Club Brugge,9,Low,Neutral,False,0.0,
+e29ab5ae-5221-44e7-ab19-a20ec6f376a6,1048,Rangers,AC Milan,10,High,AwayTeam,False,0.0,
+600bdfab-db1f-4a04-9935-5dd8bc25666e,1033,Real Betis,Bayern Munich,9,Low,AwayTeam,False,0.0,
+d62efc54-2d14-4316-98d2-54a55e1905f4,1017,Olympiacos,Fenerbahçe,5,Medium,AwayTeam,False,0.0,
+78b3f942-1e7d-4d68-b1cd-f39552bfee8a,1029,Celtic,Real Madrid,4,High,Neutral,True,67.6,Win
+4a679790-d9b7-492f-ae27-7a4e00e9506e,1042,Bayern Munich,Valencia,9,Low,AwayTeam,True,21.53,Lose
+3e8caa32-67bd-4beb-a8ac-5620de97878c,1026,Al-Ittihad,Valencia,7,High,HomeTeam,False,0.0,
+ab8ad4dd-7ade-49a6-9b7f-7d0295d0307a,1015,Paris Saint Germain,Atlético Madrid,9,Low,HomeTeam,False,0.0,
+c53b72ce-08bf-416b-a947-65dec11a72bb,1048,Rangers,AC Milan,10,High,AwayTeam,True,24.69,Lose
+c3170a02-7b73-4be9-a18d-07b639666868,1048,Rangers,AC Milan,9,Low,Neutral,False,0.0,
+c6c814ea-8bc8-4d10-aab5-409b156291f0,1033,Real Betis,Bayern Munich,8,Medium,Neutral,True,85.52,Lose
+4c8ae825-a94f-4058-b7a4-894f17e40471,1031,Juventus,AS Roma,5,Medium,Neutral,True,84.4,Win
+63cb484d-ba63-4373-bdd9-6b40fe33875e,1032,Napoli,Atlético Madrid,2,Medium,Neutral,False,0.0,
+a010e99d-4503-401d-bf34-5eb882042cc1,1019,Al-Ittihad,Tottenham Hotspur,5,Medium,AwayTeam,True,99.78,Pending
+34f20782-d80b-44f4-a30d-392ea93d76c2,1005,Boca Juniors,Ajax,5,Medium,HomeTeam,False,0.0,
+5c1ac8a3-8575-42b9-86a2-3b77314961f7,1013,Lazio,AS Roma,4,High,AwayTeam,True,16.46,Lose
+1c46d434-5f50-4fcc-b3a2-49151299a4ad,1022,Zenit Saint Petersburg,Manchester United,8,Medium,HomeTeam,False,0.0,
+c3fd2607-0bf2-416a-8f20-60c92d935fab,1004,Marseille,Al-Ahli,3,Low,AwayTeam,False,0.0,
+3c2bc0b3-8657-462e-8369-3b719c47f271,1020,Lazio,Santos,5,Medium,HomeTeam,False,0.0,
+be8da0ca-c03e-44ab-94a9-524bb0b7af96,1037,Sevilla,Al-Nassr,4,High,Neutral,False,0.0,
+c170beca-9a55-42f4-a321-4d0e0382ecc4,1030,Paris Saint Germain,Rangers,1,High,Neutral,False,0.0,
+d048f7f6-1994-450f-973b-899ee30a7208,1015,Paris Saint Germain,Atlético Madrid,2,Medium,Neutral,True,89.23,Win
+f99036b9-77a6-460a-8abf-acfaa70b40eb,1010,Fenerbahçe,Al-Ahli,3,Low,HomeTeam,False,0.0,
+7841c95a-85d9-4874-b1b9-806b7dbda82d,1025,Club Brugge,Rangers,9,Low,HomeTeam,True,95.04,Pending
+4720e322-1653-4cf0-a7c0-c8a414d1a893,1034,Olympiacos,PSV Eindhoven,6,Low,AwayTeam,False,0.0,
+414ad413-af23-4df6-9bf8-632b783d08c4,1005,Boca Juniors,Ajax,6,Low,HomeTeam,False,0.0,
+c1d780a2-91a1-4d92-a53e-5b8aaccd9e79,1027,Flamengo,Besiktas,3,Low,HomeTeam,True,19.83,Pending
+79824420-e20a-459c-8568-e2c5380361e4,1041,Atlético Madrid,Wolverhampton Wanderers,6,Low,HomeTeam,True,25.95,Lose
+44b7cb6f-7a3f-4337-bd31-d82a1490c7bd,1049,Porto,AS Roma,7,High,Neutral,False,0.0,
+189af69d-19f7-4ab9-86d5-60cdf2d1a7c9,1048,Rangers,AC Milan,8,Medium,AwayTeam,False,0.0,
+fb42745e-e152-447e-848e-a92b17b4b43d,1016,Sevilla,AC Milan,6,Low,AwayTeam,True,14.86,Lose
+645f1171-be53-4fc8-a4b0-e83d5d18e2de,1030,Paris Saint Germain,Rangers,5,Medium,AwayTeam,True,61.54,Pending
+8d3fef94-6ef0-4c8e-84a6-17cb5d23de62,1022,Zenit Saint Petersburg,Manchester United,3,Low,AwayTeam,False,0.0,
+f789e826-1ac7-4737-99f8-7c06699286ff,1015,Paris Saint Germain,Atlético Madrid,1,High,Neutral,False,0.0,
+9c9c14fe-33a3-4823-9d2c-d4bc0ee80b19,1034,Olympiacos,PSV Eindhoven,8,Medium,HomeTeam,True,25.81,Lose
+a865ab2e-3371-4121-a9e9-a5575587b38b,1011,Monaco,Real Betis,5,Medium,Neutral,True,69.96,Pending
+2afeeb50-d07e-4c4a-bd13-198e73943cbc,1007,Marseille,Inter Miami,9,Low,AwayTeam,False,0.0,
+c289b682-c200-40a6-acc1-0842c8301b86,1043,Al-Nassr,Club Brugge,4,High,AwayTeam,False,0.0,
+fe3d4c3d-8f85-4be0-8ff2-7851e447cde7,1032,Napoli,Atlético Madrid,2,Medium,AwayTeam,True,24.22,Win
+366b9ce7-0e70-4abc-931e-1b1ca404df64,1026,Al-Ittihad,Valencia,5,Medium,Neutral,False,0.0,
+15fcf0b6-e1f0-4437-90f5-aaa825af083d,1049,Porto,AS Roma,4,High,Neutral,True,11.91,Pending
+d86ea02a-3045-4f4b-b5b4-c1426b7938de,1024,Juventus,Zenit Saint Petersburg,2,Medium,HomeTeam,False,0.0,
+64ac411f-c6f8-495f-882a-c76d97916bec,1035,Tottenham Hotspur,Atalanta,10,High,HomeTeam,True,87.85,Pending
+57477dda-9f77-49a1-bea3-f11304da121c,1018,Napoli,Newcastle United,6,Low,AwayTeam,True,68.17,Pending
+424973b1-bb8f-4777-ab69-7485a3e86268,1023,Celtic,Napoli,3,Low,HomeTeam,False,0.0,
+d6499cf9-acde-46d1-9357-c2d10dab1d97,1029,Celtic,Real Madrid,10,High,Neutral,True,24.79,Pending
+cc13bbad-57b5-40ea-a9a0-117fd97bf342,1010,Fenerbahçe,Al-Ahli,1,High,AwayTeam,False,0.0,
+9b0a9b98-1ec8-4284-9bf2-0298602ee4d6,1024,Juventus,Zenit Saint Petersburg,3,Low,Neutral,True,14.33,Lose
+6d3810b4-a8c9-482d-9907-1f216b3bb2e8,1005,Boca Juniors,Ajax,3,Low,Neutral,True,20.04,Pending
+45fa56b3-81db-4419-bc0c-3e8af0d40eef,1013,Lazio,AS Roma,1,High,AwayTeam,True,26.69,Win
+49589e94-99ce-446b-9dc2-1e9e1a051878,1050,Ajax,Chelsea,4,High,HomeTeam,True,45.57,Pending
+89461a93-2080-494c-985d-b3dae472df4d,1023,Celtic,Napoli,10,High,Neutral,True,28.23,Lose
+c8a7728f-dd14-495d-9812-ebae9ceb874f,1033,Real Betis,Bayern Munich,7,High,Neutral,True,60.14,Lose
+86f81762-12ce-4db3-8a9c-209f5090b710,1010,Fenerbahçe,Al-Ahli,7,High,AwayTeam,False,0.0,
+56ec1864-7d52-4504-9622-3e1950542f19,1044,Al-Ahli,Club Brugge,6,Low,AwayTeam,False,0.0,
+84a90f80-6544-4dcf-8b68-077bf2d6275d,1041,Atlético Madrid,Wolverhampton Wanderers,7,High,Neutral,False,0.0,
+5f0da8a8-5018-4656-a07e-76717b515271,1003,Lazio,Borussia Dortmund,5,Medium,HomeTeam,False,0.0,
+65240b7a-f391-43f9-9d29-40091766e24b,1050,Ajax,Chelsea,2,Medium,Neutral,False,0.0,
+12a7756d-8a96-45fa-958f-36c7b050bff7,1041,Atlético Madrid,Wolverhampton Wanderers,5,Medium,Neutral,True,8.15,Pending
+8e083cb2-2d42-4908-8a46-299129aaa875,1004,Marseille,Al-Ahli,1,High,Neutral,False,0.0,
+3729fe7e-6005-491d-b76e-9a1a5b19cd55,1030,Paris Saint Germain,Rangers,6,Low,Neutral,True,34.36,Pending
+e2fcb444-1f1d-45ff-a270-da048fb65522,1005,Boca Juniors,Ajax,10,High,Neutral,True,14.94,Lose
+e009e34f-accf-4f91-b221-6833167bbf70,1028,Rangers,Zenit Saint Petersburg,1,High,Neutral,True,7.16,Pending
+54d3fd33-ed92-41a0-b4bd-74ab086498f3,1047,Lazio,Arsenal,7,High,AwayTeam,True,68.93,Lose
+1abc0d6b-3cb1-4d6f-8008-4ca4e5ac7b11,1005,Boca Juniors,Ajax,4,High,Neutral,True,39.63,Lose
+1e1945d5-280f-4158-8b1a-b80a75b38f78,1037,Sevilla,Al-Nassr,1,High,Neutral,False,0.0,
+8d2e24e3-eec5-4709-b972-2d6f95b7a813,1008,Real Betis,Club Brugge,6,Low,Neutral,False,0.0,
+6bf3cb51-c53f-47b1-9593-b31cd764fed7,1001,Atalanta,Monaco,8,Medium,Neutral,True,88.84,Win
+ba3ddab1-6b08-45bd-91d3-43511895e239,1001,Atalanta,Monaco,8,Medium,AwayTeam,False,0.0,
+e6d80bb4-7489-4fc6-a674-f3d6c69a5d60,1048,Rangers,AC Milan,7,High,HomeTeam,True,52.61,Lose
+95a8730f-10fc-4fa6-9f6b-de2dd6e1974a,1019,Al-Ittihad,Tottenham Hotspur,1,High,HomeTeam,True,41.99,Pending
+49785395-4ced-4306-ae7f-972feaca1225,1019,Al-Ittihad,Tottenham Hotspur,7,High,AwayTeam,False,0.0,
+f2f4bc51-7ca8-4643-909b-db9f0ebe0e99,1040,Monaco,RB Leipzig,9,Low,Neutral,False,0.0,
+abdeb143-c220-434e-8329-12db5671332a,1011,Monaco,Real Betis,6,Low,HomeTeam,True,22.84,Lose
+44f862c5-48f8-4a41-bdd3-8cabddcdd59b,1012,River Plate,Marseille,9,Low,AwayTeam,True,6.21,Pending
+a3bf4b43-7945-4664-bb5e-d64583e3ca3b,1002,Rangers,Eintracht Frankfurt,2,Medium,HomeTeam,False,0.0,
+150b3179-7d5a-4fe5-946e-fcf98293363d,1005,Boca Juniors,Ajax,1,High,HomeTeam,True,69.68,Win
+215e9367-13b0-4eac-ba8e-e51b7c34c02a,1018,Napoli,Newcastle United,2,Medium,HomeTeam,True,44.41,Win
+c0f6bd17-d78e-4ad5-bf06-63683a2a1649,1019,Al-Ittihad,Tottenham Hotspur,10,High,AwayTeam,False,0.0,
+7a0a0c7d-0041-4447-8b8e-db10599475b7,1032,Napoli,Atlético Madrid,5,Medium,Neutral,True,83.75,Lose
+5030119b-35c1-4b77-88a2-906f6691ee11,1035,Tottenham Hotspur,Atalanta,1,High,HomeTeam,True,10.33,Pending
+805589ca-18d4-4e9e-a7ff-7346f965b47d,1011,Monaco,Real Betis,7,High,HomeTeam,True,25.07,Win
+0ac4292b-8d81-4daa-adc2-bdc32c97d203,1047,Lazio,Arsenal,1,High,AwayTeam,False,0.0,
+d7ef927a-82fc-42ce-b928-7bc622d913ca,1041,Atlético Madrid,Wolverhampton Wanderers,10,High,AwayTeam,True,55.96,Pending
+ee01aa84-0883-42d9-8fa0-ddaf19a72754,1004,Marseille,Al-Ahli,6,Low,AwayTeam,False,0.0,
+3ac24a39-217c-4f38-964e-93c1889ae6f0,1039,Tottenham Hotspur,Borussia Dortmund,5,Medium,Neutral,False,0.0,
+029fdcb5-0b21-4646-8d94-7254b0dd2e35,1009,Santos,Atlético Madrid,3,Low,Neutral,True,27.77,Win
+4a4f32f4-a6a7-442d-9582-a3bf9eec7ca0,1019,Al-Ittihad,Tottenham Hotspur,7,High,Neutral,False,0.0,
